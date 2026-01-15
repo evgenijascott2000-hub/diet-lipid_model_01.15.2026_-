@@ -1,0 +1,31 @@
+Lipid outcomes: log(Triglycerides), Total cholesterol, log(HDL cholesterol), LDL cholesterol, log(Apolipoprotein A), Apolipoprotein B
+Excluded from linear analysis: log(Lipoprotein A)
+Diet predictors (non-pilot): 93
+
+Covariates (Total: 12):
+  - Original covariates: 6 (3 numeric + 3 categorical)
+  - PRS covariates: 6 (6 numeric + 0 categorical)
+  - Numeric: ['cov_age_at_assessment', 'cov_body_mass_index', 'cov_fasting_time', 'prs_apolipoprotein_a1', 'prs_apolipoprotein_b', 'prs_hdl_cholesterol', 'prs_ldl_cholesterol', 'prs_total_cholesterol', 'prs_triglycerides']
+  - Categorical: ['cov_sex', 'cov_alcohol_status', 'cov_current_smoking']
+
+PRS Missing Data Handling: Complete Case Analysis
+  - Strategy: 删除PRS缺失样本 (推荐)
+  - Final sample size: 10943
+  - Original sample size: 49936
+  - Sample retention: 21.9%
+
+OLS results saved to: /public3/data/zhangxuanyu/Li_Jinxia_program/results_93_diet_24h/linear_models/03_ols_regression/ols_coefficients.csv
+Lasso results saved to: /public3/data/zhangxuanyu/Li_Jinxia_program/results_93_diet_24h/linear_models/04_lasso_regularization/lasso_coefficients.csv
+Variant OLS results saved to: /public3/data/zhangxuanyu/Li_Jinxia_program/results_93_diet_24h/linear_models/03_ols_regression/variant_ols_coefficients.csv
+Model metrics saved to: /public3/data/zhangxuanyu/Li_Jinxia_program/results_93_diet_24h/linear_models/06_model_diagnostics/model_fit_metrics.csv
+Lasso bootstrap summary: not generated
+Elastic Net results saved to: not generated
+Diet PCA loadings: /public3/data/zhangxuanyu/Li_Jinxia_program/results_93_diet_24h/linear_models/02_pca_analysis/diet_pca_component_loadings.csv
+PCA components used for variant OLS: 15
+OLS sample cap: full dataset
+LASSO sample cap: full dataset
+LASSO bootstrap iterations: disabled
+LASSO bootstrap sample size: n/a
+Model dataframe rows: 10943
+Imputation summary: /public3/data/zhangxuanyu/Li_Jinxia_program/results_93_diet_24h/linear_models/01_data_preparation/imputation_summary.csv
+Non-linear export: /public3/data/zhangxuanyu/Li_Jinxia_program/results_93_diet_24h/non-linear_models/lipoprotein_a_nmol_L_log_nonlinear_input.csv

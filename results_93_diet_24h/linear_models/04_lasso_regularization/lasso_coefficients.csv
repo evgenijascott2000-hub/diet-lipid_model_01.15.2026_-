@@ -1,0 +1,559 @@
+lipid_variable,lipid_label,diet_variable,coef,alpha,n_samples,diet_display
+triglycerides_mmol_L_log,log(Triglycerides),diet_animal_fat_spread_lower_fat_24h,0.0027618194,0.0025565139012186473,10925,Animal fat spread lower fat 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_animal_fat_spread_normal_24h,0.007928594,0.0025565139012186473,10925,Animal fat spread normal 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_added_sugars_and_preserves_24h,0.01474071,0.0025565139012186473,10925,Added sugars and preserves 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_allium_vegetables_24h,0.006264282,0.0025565139012186473,10925,Allium vegetables 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_beef_24h,-0.00014202738,0.0025565139012186473,10925,Beef 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_beer_and_cider_24h,-0.0015072747,0.0025565139012186473,10925,Beer and cider 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_biscuits_24h,0.0,0.0025565139012186473,10925,Biscuits 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_breaded_battered_chicken_24h,-0.01394788,0.0025565139012186473,10925,Breaded/battered chicken 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_breaded_battered_fish_24h,-0.00863016,0.0025565139012186473,10925,Breaded/battered fish 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_mixed_bread_50_50_brown_and_seeded_24h,0.003611289,0.0025565139012186473,10925,"Mixed bread (50/50), brown and seeded 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_other_bread_24h,0.011204125,0.0025565139012186473,10925,Other bread 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_white_bread_24h,0.012828311,0.0025565139012186473,10925,White bread 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_wholemeal_bread_24h,-0.0,0.0025565139012186473,10925,Wholemeal bread 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_biscuit_cereal_24h,0.006146235,0.0025565139012186473,10925,Biscuit cereal 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_bran_cereal_24h,0.0022388068,0.0025565139012186473,10925,Bran cereal 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_oat_cereal_non_sugar_24h,-0.01055167,0.0025565139012186473,10925,Oat cereal (non sugar) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_oat_cereal_sugar_24h,0.007838863,0.0025565139012186473,10925,Oat cereal (sugar) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_other_cereal_sugar_24h,0.006990118,0.0025565139012186473,10925,Other cereal (sugar) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_chocolate_confectionery_24h,0.0034230675,0.0025565139012186473,10925,Chocolate confectionery 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_coffee_caffeinated_24h,-0.0,0.0025565139012186473,10925,"Coffee, caffeinated 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_coffee_decaffeinated_24h,0.0055397833,0.0025565139012186473,10925,"Coffee, decaffeinated 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_savoury_crackers_24h,-0.0072599156,0.0025565139012186473,10925,Savoury crackers 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_milk_dairy_desserts_24h,0.010125248,0.0025565139012186473,10925,Milk-dairy desserts 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_other_desserts_and_cakes_and_pastries_24h,-0.00030135724,0.0025565139012186473,10925,Other desserts and cakes and pastries 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_soy_desserts_and_yogurt_24h,0.0,0.0025565139012186473,10925,Soy desserts and yogurt 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_milk_based_and_powdered_drinks_24h,-0.0020624911,0.0025565139012186473,10925,Milk-based and powdered drinks 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_egg_and_egg_dishes_24h,0.0,0.0025565139012186473,10925,Egg and egg dishes 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_apples_and_pears_24h,-0.008338385,0.0025565139012186473,10925,Apples and pears 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_berries_24h,0.0,0.0025565139012186473,10925,Berries 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_citrus_24h,0.0,0.0025565139012186473,10925,Citrus 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_dried_fruit_24h,0.00077068986,0.0025565139012186473,10925,Dried fruit 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_other_fruit_24h,-0.0,0.0025565139012186473,10925,Other fruit 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_stewed_fruit_24h,0.0062793503,0.0025565139012186473,10925,Stewed fruit 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_fruit_juice_24h,0.010456261,0.0025565139012186473,10925,Fruit juice 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_full_fat_yogurt_24h,-0.0017829572,0.0025565139012186473,10925,Full fat yogurt 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_grain_dishes_added_fat_24h,0.0017822051,0.0025565139012186473,10925,Grain dishes - added fat 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_green_leafy_cabbages_24h,-0.0,0.0025565139012186473,10925,Green leafy/cabbages 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_high_fat_cheese_24h,0.0,0.0025565139012186473,10925,High fat cheese 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_lamb_24h,-0.0,0.0025565139012186473,10925,Lamb 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_legumes_and_pulses_24h,0.010759579,0.0025565139012186473,10925,Legumes and pulses 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_low_fat_yogurt_24h,0.0026947483,0.0025565139012186473,10925,Low fat yogurt 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_medium_and_low_fat_cheese_24h,0.005306102,0.0025565139012186473,10925,Medium and low fat cheese 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_other_meat_offal_24h,-0.0,0.0025565139012186473,10925,"Other meat, offal 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_muesli_24h,0.0048726583,0.0025565139012186473,10925,Muesli 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_nut_based_spreads_24h,-0.006521831,0.0025565139012186473,10925,Nut-based spreads 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_unsalted_nuts_and_seeds_24h,-0.007639207,0.0025565139012186473,10925,Unsalted nuts and seeds 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_salted_nuts_and_seeds_24h,-0.0048612403,0.0025565139012186473,10925,Salted nuts and seeds 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_oily_fish_24h,-0.031522237,0.0025565139012186473,10925,Oily fish 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_olive_oil_drizzling_dunking_24h,0.000106696294,0.0025565139012186473,10925,Olive oil (drizzling/dunking) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_plant_based_spread_lower_fat_24h,0.0023201404,0.0025565139012186473,10925,Plant-based spread lower fat 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_plant_based_spread_normal_24h,-0.0,0.0025565139012186473,10925,Plant-based spread normal 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_white_pasta_and_rice_24h,0.0057296376,0.0025565139012186473,10925,White pasta and rice 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_wholemeal_pasta_brown_rice_and_other_wholegrains_24h,-0.0050946446,0.0025565139012186473,10925,"Wholemeal pasta, brown rice and other wholegrains 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_peas_and_sweetcorn_24h,0.0038147436,0.0025565139012186473,10925,Peas and sweetcorn 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_pizza_24h,0.010959931,0.0025565139012186473,10925,Pizza 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_pork_24h,0.0,0.0025565139012186473,10925,Pork 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_potatoes_and_sweet_potatoes_baked_boiled_24h,0.0062313937,0.0025565139012186473,10925,Potatoes and sweet potatoes (baked/boiled) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_fried_roast_potatoes_24h,0.002560554,0.0025565139012186473,10925,Fried/roast potatoes 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_mashed_potatoes_24h,0.0033198148,0.0025565139012186473,10925,Mashed potatoes 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_poultry_24h,-0.010661077,0.0025565139012186473,10925,Poultry 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_processed_meat_24h,-0.003841221,0.0025565139012186473,10925,Processed meat 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_raw_salad_24h,-0.016321963,0.0025565139012186473,10925,Raw salad 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_rice_oat_milk_24h,-0.0013132379,0.0025565139012186473,10925,Rice/oat milk 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_root_vegetables_24h,0.0060588964,0.0025565139012186473,10925,Root vegetables 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_low_non_sugar_sugar_sweetened_beverages_24h,-0.0,0.0025565139012186473,10925,Low/non sugar sugar-sweetened beverages 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_sugar_sweetened_beverages_and_other_sugary_drinks_24h,0.0018873241,0.0025565139012186473,10925,Sugar-sweetened beverages and other sugary drinks 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_samosa_pakora_24h,0.0052126036,0.0025565139012186473,10925,"Samosa, pakora 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_sauces_and_condiments_high_fat_24h,0.0062831184,0.0025565139012186473,10925,Sauces and condiments (high fat) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_sauces_and_condiments_low_fat_24h,0.0084899925,0.0025565139012186473,10925,Sauces and condiments (low fat) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_semi_skimmed_milk_24h,0.009428112,0.0025565139012186473,10925,Semi skimmed milk 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_shellfish_24h,-0.0028506832,0.0025565139012186473,10925,Shellfish 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_skimmed_milk_and_cholesterol_lowering_milk_24h,0.0,0.0025565139012186473,10925,Skimmed milk and cholesterol-lowering milk 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_savoury_snacks_24h,0.0015066778,0.0025565139012186473,10925,Savoury snacks 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_soups_24h,-0.0009959455,0.0025565139012186473,10925,Soups 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_soy_milk_24h,-0.0,0.0025565139012186473,10925,Soy milk 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_meat_substitutes_soy_24h,0.00048740115,0.0025565139012186473,10925,Meat substitutes - soy 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_spirits_24h,-0.0,0.0025565139012186473,10925,Spirits 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_sushi_24h,0.004468884,0.0025565139012186473,10925,Sushi 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_other_sweets_24h,-0.0,0.0025565139012186473,10925,Other sweets 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_tea_24h,0.0,0.0025565139012186473,10925,Tea 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_tea_decaffeinated_24h,-0.0026716567,0.0025565139012186473,10925,"Tea, decaffeinated 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_tomatoes_24h,-0.0,0.0025565139012186473,10925,Tomatoes 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_vegetable_dips_24h,-0.001105694,0.0025565139012186473,10925,Vegetable dips 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_meat_substitutes_vegetarian_24h,0.0043092645,0.0025565139012186473,10925,Meat substitutes - vegetarian 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_other_vegetables_including_mushrooms_fruiting_and_mixed_vegetables_24h,0.0,0.0025565139012186473,10925,"Other vegetables, including mushrooms, fruiting and mixed vegetables 24h"
+triglycerides_mmol_L_log,log(Triglycerides),diet_vegetable_side_dishes_24h,0.0,0.0025565139012186473,10925,Vegetable side dishes 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_water_still_and_sparkling_24h,-4.1635543e-05,0.0025565139012186473,10925,Water (still and sparkling) 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_white_fish_and_tinned_tuna_24h,-0.017697664,0.0025565139012186473,10925,White fish and tinned tuna 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_whole_milk_24h,-0.0010688893,0.0025565139012186473,10925,Whole milk 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_fortified_wine_24h,-0.0,0.0025565139012186473,10925,Fortified wine 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_red_wine_24h,-0.012857133,0.0025565139012186473,10925,Red wine 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_white_wine_24h,-0.0068553975,0.0025565139012186473,10925,White wine 24h
+triglycerides_mmol_L_log,log(Triglycerides),diet_cream_24h,0.00027077386,0.0025565139012186473,10925,Cream 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_animal_fat_spread_lower_fat_24h,0.0,0.005125168764577993,10921,Animal fat spread lower fat 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_animal_fat_spread_normal_24h,0.02369244,0.005125168764577993,10921,Animal fat spread normal 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_added_sugars_and_preserves_24h,-0.00558789,0.005125168764577993,10921,Added sugars and preserves 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_allium_vegetables_24h,0.012473566,0.005125168764577993,10921,Allium vegetables 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_beef_24h,0.0,0.005125168764577993,10921,Beef 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_beer_and_cider_24h,0.017452588,0.005125168764577993,10921,Beer and cider 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_biscuits_24h,0.000975613,0.005125168764577993,10921,Biscuits 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_breaded_battered_chicken_24h,-0.0160462,0.005125168764577993,10921,Breaded/battered chicken 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_breaded_battered_fish_24h,-0.0,0.005125168764577993,10921,Breaded/battered fish 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_mixed_bread_50_50_brown_and_seeded_24h,-0.0003618936,0.005125168764577993,10921,"Mixed bread (50/50), brown and seeded 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_other_bread_24h,-0.009598155,0.005125168764577993,10921,Other bread 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_white_bread_24h,-0.012566108,0.005125168764577993,10921,White bread 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_wholemeal_bread_24h,-0.017241031,0.005125168764577993,10921,Wholemeal bread 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_biscuit_cereal_24h,-0.0,0.005125168764577993,10921,Biscuit cereal 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_bran_cereal_24h,-0.0,0.005125168764577993,10921,Bran cereal 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_oat_cereal_non_sugar_24h,-0.0124095045,0.005125168764577993,10921,Oat cereal (non sugar) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_oat_cereal_sugar_24h,-0.0,0.005125168764577993,10921,Oat cereal (sugar) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_other_cereal_sugar_24h,-0.02225981,0.005125168764577993,10921,Other cereal (sugar) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_chocolate_confectionery_24h,0.017049791,0.005125168764577993,10921,Chocolate confectionery 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_coffee_caffeinated_24h,0.04583379,0.005125168764577993,10921,"Coffee, caffeinated 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_coffee_decaffeinated_24h,0.020670934,0.005125168764577993,10921,"Coffee, decaffeinated 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_savoury_crackers_24h,-0.0052547916,0.005125168764577993,10921,Savoury crackers 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_milk_dairy_desserts_24h,0.014374861,0.005125168764577993,10921,Milk-dairy desserts 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_other_desserts_and_cakes_and_pastries_24h,0.0,0.005125168764577993,10921,Other desserts and cakes and pastries 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_soy_desserts_and_yogurt_24h,0.001615507,0.005125168764577993,10921,Soy desserts and yogurt 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_milk_based_and_powdered_drinks_24h,-0.008804598,0.005125168764577993,10921,Milk-based and powdered drinks 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_egg_and_egg_dishes_24h,6.680628e-05,0.005125168764577993,10921,Egg and egg dishes 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_apples_and_pears_24h,-0.009901413,0.005125168764577993,10921,Apples and pears 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_berries_24h,0.0,0.005125168764577993,10921,Berries 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_citrus_24h,0.0,0.005125168764577993,10921,Citrus 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_dried_fruit_24h,0.0,0.005125168764577993,10921,Dried fruit 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_other_fruit_24h,-0.012600118,0.005125168764577993,10921,Other fruit 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_stewed_fruit_24h,0.008176169,0.005125168764577993,10921,Stewed fruit 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_fruit_juice_24h,0.0040117516,0.005125168764577993,10921,Fruit juice 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_full_fat_yogurt_24h,0.0,0.005125168764577993,10921,Full fat yogurt 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_grain_dishes_added_fat_24h,0.0039259526,0.005125168764577993,10921,Grain dishes - added fat 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_green_leafy_cabbages_24h,0.0,0.005125168764577993,10921,Green leafy/cabbages 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_high_fat_cheese_24h,0.01827227,0.005125168764577993,10921,High fat cheese 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_lamb_24h,0.0,0.005125168764577993,10921,Lamb 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_legumes_and_pulses_24h,-0.001379816,0.005125168764577993,10921,Legumes and pulses 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_low_fat_yogurt_24h,0.0,0.005125168764577993,10921,Low fat yogurt 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_medium_and_low_fat_cheese_24h,0.011014183,0.005125168764577993,10921,Medium and low fat cheese 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_other_meat_offal_24h,0.002249373,0.005125168764577993,10921,"Other meat, offal 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_muesli_24h,-0.0,0.005125168764577993,10921,Muesli 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_nut_based_spreads_24h,-0.0,0.005125168764577993,10921,Nut-based spreads 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_unsalted_nuts_and_seeds_24h,-0.029233642,0.005125168764577993,10921,Unsalted nuts and seeds 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_salted_nuts_and_seeds_24h,-0.0011886263,0.005125168764577993,10921,Salted nuts and seeds 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_oily_fish_24h,0.0,0.005125168764577993,10921,Oily fish 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_olive_oil_drizzling_dunking_24h,-0.0,0.005125168764577993,10921,Olive oil (drizzling/dunking) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_plant_based_spread_lower_fat_24h,-0.0054698763,0.005125168764577993,10921,Plant-based spread lower fat 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_plant_based_spread_normal_24h,-0.0010185769,0.005125168764577993,10921,Plant-based spread normal 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_white_pasta_and_rice_24h,-0.018677758,0.005125168764577993,10921,White pasta and rice 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_wholemeal_pasta_brown_rice_and_other_wholegrains_24h,-0.02577025,0.005125168764577993,10921,"Wholemeal pasta, brown rice and other wholegrains 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_peas_and_sweetcorn_24h,-0.0,0.005125168764577993,10921,Peas and sweetcorn 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_pizza_24h,-0.004651309,0.005125168764577993,10921,Pizza 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_pork_24h,0.006074251,0.005125168764577993,10921,Pork 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_potatoes_and_sweet_potatoes_baked_boiled_24h,-2.787478e-05,0.005125168764577993,10921,Potatoes and sweet potatoes (baked/boiled) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_fried_roast_potatoes_24h,-0.0090224,0.005125168764577993,10921,Fried/roast potatoes 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_mashed_potatoes_24h,0.007677616,0.005125168764577993,10921,Mashed potatoes 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_poultry_24h,0.016211398,0.005125168764577993,10921,Poultry 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_processed_meat_24h,-0.0,0.005125168764577993,10921,Processed meat 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_raw_salad_24h,0.0,0.005125168764577993,10921,Raw salad 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_rice_oat_milk_24h,-0.003961146,0.005125168764577993,10921,Rice/oat milk 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_root_vegetables_24h,0.0048755165,0.005125168764577993,10921,Root vegetables 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_low_non_sugar_sugar_sweetened_beverages_24h,0.0,0.005125168764577993,10921,Low/non sugar sugar-sweetened beverages 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_sugar_sweetened_beverages_and_other_sugary_drinks_24h,-0.008372615,0.005125168764577993,10921,Sugar-sweetened beverages and other sugary drinks 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_samosa_pakora_24h,-0.001082097,0.005125168764577993,10921,"Samosa, pakora 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_sauces_and_condiments_high_fat_24h,0.012922452,0.005125168764577993,10921,Sauces and condiments (high fat) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_sauces_and_condiments_low_fat_24h,-0.0024478927,0.005125168764577993,10921,Sauces and condiments (low fat) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_semi_skimmed_milk_24h,0.020114934,0.005125168764577993,10921,Semi skimmed milk 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_shellfish_24h,-0.0,0.005125168764577993,10921,Shellfish 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_skimmed_milk_and_cholesterol_lowering_milk_24h,-0.009572978,0.005125168764577993,10921,Skimmed milk and cholesterol-lowering milk 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_savoury_snacks_24h,-0.0047086035,0.005125168764577993,10921,Savoury snacks 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_soups_24h,-0.009821065,0.005125168764577993,10921,Soups 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_soy_milk_24h,-0.0057687648,0.005125168764577993,10921,Soy milk 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_meat_substitutes_soy_24h,-0.00927807,0.005125168764577993,10921,Meat substitutes - soy 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_spirits_24h,0.011712801,0.005125168764577993,10921,Spirits 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_sushi_24h,0.0,0.005125168764577993,10921,Sushi 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_other_sweets_24h,-0.004328994,0.005125168764577993,10921,Other sweets 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_tea_24h,-0.0,0.005125168764577993,10921,Tea 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_tea_decaffeinated_24h,-0.0,0.005125168764577993,10921,"Tea, decaffeinated 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_tomatoes_24h,0.0051432904,0.005125168764577993,10921,Tomatoes 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_vegetable_dips_24h,-0.014233713,0.005125168764577993,10921,Vegetable dips 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_meat_substitutes_vegetarian_24h,-0.023675509,0.005125168764577993,10921,Meat substitutes - vegetarian 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_other_vegetables_including_mushrooms_fruiting_and_mixed_vegetables_24h,-0.017416405,0.005125168764577993,10921,"Other vegetables, including mushrooms, fruiting and mixed vegetables 24h"
+total_cholesterol_mmol_L,Total cholesterol,diet_vegetable_side_dishes_24h,-0.0057745883,0.005125168764577993,10921,Vegetable side dishes 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_water_still_and_sparkling_24h,-0.011957231,0.005125168764577993,10921,Water (still and sparkling) 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_white_fish_and_tinned_tuna_24h,-0.0,0.005125168764577993,10921,White fish and tinned tuna 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_whole_milk_24h,0.010433574,0.005125168764577993,10921,Whole milk 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_fortified_wine_24h,0.0,0.005125168764577993,10921,Fortified wine 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_red_wine_24h,0.013783773,0.005125168764577993,10921,Red wine 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_white_wine_24h,0.02175742,0.005125168764577993,10921,White wine 24h
+total_cholesterol_mmol_L,Total cholesterol,diet_cream_24h,0.015899895,0.005125168764577993,10921,Cream 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_animal_fat_spread_lower_fat_24h,-0.0021598162,0.0012970742580513854,9916,Animal fat spread lower fat 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_animal_fat_spread_normal_24h,0.0016455599,0.0012970742580513854,9916,Animal fat spread normal 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_added_sugars_and_preserves_24h,-0.010122677,0.0012970742580513854,9916,Added sugars and preserves 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_allium_vegetables_24h,0.0006460406,0.0012970742580513854,9916,Allium vegetables 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_beef_24h,0.0024095355,0.0012970742580513854,9916,Beef 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_beer_and_cider_24h,0.022900498,0.0012970742580513854,9916,Beer and cider 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_biscuits_24h,-0.0,0.0012970742580513854,9916,Biscuits 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_breaded_battered_chicken_24h,0.0,0.0012970742580513854,9916,Breaded/battered chicken 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_breaded_battered_fish_24h,0.0010972994,0.0012970742580513854,9916,Breaded/battered fish 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_mixed_bread_50_50_brown_and_seeded_24h,-0.0,0.0012970742580513854,9916,"Mixed bread (50/50), brown and seeded 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_other_bread_24h,-0.00467717,0.0012970742580513854,9916,Other bread 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_white_bread_24h,-0.0030708122,0.0012970742580513854,9916,White bread 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_wholemeal_bread_24h,-0.0,0.0012970742580513854,9916,Wholemeal bread 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_biscuit_cereal_24h,-0.00628847,0.0012970742580513854,9916,Biscuit cereal 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_bran_cereal_24h,-0.0,0.0012970742580513854,9916,Bran cereal 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_oat_cereal_non_sugar_24h,-0.0,0.0012970742580513854,9916,Oat cereal (non sugar) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_oat_cereal_sugar_24h,-0.00022998035,0.0012970742580513854,9916,Oat cereal (sugar) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_other_cereal_sugar_24h,-0.00864577,0.0012970742580513854,9916,Other cereal (sugar) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_chocolate_confectionery_24h,0.0,0.0012970742580513854,9916,Chocolate confectionery 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_coffee_caffeinated_24h,0.004469136,0.0012970742580513854,9916,"Coffee, caffeinated 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_coffee_decaffeinated_24h,-0.0,0.0012970742580513854,9916,"Coffee, decaffeinated 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_savoury_crackers_24h,-0.0,0.0012970742580513854,9916,Savoury crackers 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_milk_dairy_desserts_24h,0.00055974035,0.0012970742580513854,9916,Milk-dairy desserts 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_other_desserts_and_cakes_and_pastries_24h,0.0,0.0012970742580513854,9916,Other desserts and cakes and pastries 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_soy_desserts_and_yogurt_24h,-0.0,0.0012970742580513854,9916,Soy desserts and yogurt 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_milk_based_and_powdered_drinks_24h,-0.0,0.0012970742580513854,9916,Milk-based and powdered drinks 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_egg_and_egg_dishes_24h,0.0018712401,0.0012970742580513854,9916,Egg and egg dishes 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_apples_and_pears_24h,-0.0,0.0012970742580513854,9916,Apples and pears 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_berries_24h,0.0015511427,0.0012970742580513854,9916,Berries 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_citrus_24h,-0.002499119,0.0012970742580513854,9916,Citrus 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_dried_fruit_24h,-0.0,0.0012970742580513854,9916,Dried fruit 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_other_fruit_24h,-0.00095942745,0.0012970742580513854,9916,Other fruit 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_stewed_fruit_24h,-0.00062576745,0.0012970742580513854,9916,Stewed fruit 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_fruit_juice_24h,0.0,0.0012970742580513854,9916,Fruit juice 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_full_fat_yogurt_24h,3.1517513e-05,0.0012970742580513854,9916,Full fat yogurt 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_grain_dishes_added_fat_24h,0.00028746587,0.0012970742580513854,9916,Grain dishes - added fat 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_green_leafy_cabbages_24h,0.0,0.0012970742580513854,9916,Green leafy/cabbages 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_high_fat_cheese_24h,0.0030486763,0.0012970742580513854,9916,High fat cheese 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_lamb_24h,-0.00021146987,0.0012970742580513854,9916,Lamb 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_legumes_and_pulses_24h,-0.0029645192,0.0012970742580513854,9916,Legumes and pulses 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_low_fat_yogurt_24h,-0.0026816726,0.0012970742580513854,9916,Low fat yogurt 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_medium_and_low_fat_cheese_24h,-0.0,0.0012970742580513854,9916,Medium and low fat cheese 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_other_meat_offal_24h,0.002827876,0.0012970742580513854,9916,"Other meat, offal 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_muesli_24h,-0.0018535204,0.0012970742580513854,9916,Muesli 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_nut_based_spreads_24h,0.0004733228,0.0012970742580513854,9916,Nut-based spreads 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_unsalted_nuts_and_seeds_24h,0.0,0.0012970742580513854,9916,Unsalted nuts and seeds 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_salted_nuts_and_seeds_24h,0.0006326497,0.0012970742580513854,9916,Salted nuts and seeds 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_oily_fish_24h,0.0059438995,0.0012970742580513854,9916,Oily fish 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_olive_oil_drizzling_dunking_24h,-0.0,0.0012970742580513854,9916,Olive oil (drizzling/dunking) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_plant_based_spread_lower_fat_24h,-0.0012150254,0.0012970742580513854,9916,Plant-based spread lower fat 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_plant_based_spread_normal_24h,-0.0,0.0012970742580513854,9916,Plant-based spread normal 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_white_pasta_and_rice_24h,-0.0036866714,0.0012970742580513854,9916,White pasta and rice 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_wholemeal_pasta_brown_rice_and_other_wholegrains_24h,-0.00080752524,0.0012970742580513854,9916,"Wholemeal pasta, brown rice and other wholegrains 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_peas_and_sweetcorn_24h,-0.0,0.0012970742580513854,9916,Peas and sweetcorn 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_pizza_24h,-0.003401052,0.0012970742580513854,9916,Pizza 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_pork_24h,0.0009605839,0.0012970742580513854,9916,Pork 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_potatoes_and_sweet_potatoes_baked_boiled_24h,0.0,0.0012970742580513854,9916,Potatoes and sweet potatoes (baked/boiled) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_fried_roast_potatoes_24h,-0.0017407702,0.0012970742580513854,9916,Fried/roast potatoes 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_mashed_potatoes_24h,-0.0,0.0012970742580513854,9916,Mashed potatoes 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_poultry_24h,0.0055482774,0.0012970742580513854,9916,Poultry 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_processed_meat_24h,0.0,0.0012970742580513854,9916,Processed meat 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_raw_salad_24h,0.0017186016,0.0012970742580513854,9916,Raw salad 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_rice_oat_milk_24h,0.0024258313,0.0012970742580513854,9916,Rice/oat milk 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_root_vegetables_24h,-0.0014182979,0.0012970742580513854,9916,Root vegetables 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_low_non_sugar_sugar_sweetened_beverages_24h,0.0,0.0012970742580513854,9916,Low/non sugar sugar-sweetened beverages 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_sugar_sweetened_beverages_and_other_sugary_drinks_24h,-0.0056266473,0.0012970742580513854,9916,Sugar-sweetened beverages and other sugary drinks 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_samosa_pakora_24h,-0.0037401665,0.0012970742580513854,9916,"Samosa, pakora 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_sauces_and_condiments_high_fat_24h,0.0015597198,0.0012970742580513854,9916,Sauces and condiments (high fat) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_sauces_and_condiments_low_fat_24h,-0.0012517592,0.0012970742580513854,9916,Sauces and condiments (low fat) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_semi_skimmed_milk_24h,-0.0,0.0012970742580513854,9916,Semi skimmed milk 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_shellfish_24h,0.0,0.0012970742580513854,9916,Shellfish 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_skimmed_milk_and_cholesterol_lowering_milk_24h,-0.0024773574,0.0012970742580513854,9916,Skimmed milk and cholesterol-lowering milk 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_savoury_snacks_24h,-0.0012260509,0.0012970742580513854,9916,Savoury snacks 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_soups_24h,-0.0002509509,0.0012970742580513854,9916,Soups 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_soy_milk_24h,-3.7252736e-05,0.0012970742580513854,9916,Soy milk 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_meat_substitutes_soy_24h,-0.003584356,0.0012970742580513854,9916,Meat substitutes - soy 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_spirits_24h,0.011850698,0.0012970742580513854,9916,Spirits 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_sushi_24h,0.0,0.0012970742580513854,9916,Sushi 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_other_sweets_24h,-0.0,0.0012970742580513854,9916,Other sweets 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_tea_24h,0.0033262593,0.0012970742580513854,9916,Tea 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_tea_decaffeinated_24h,0.0010003259,0.0012970742580513854,9916,"Tea, decaffeinated 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_tomatoes_24h,0.004038524,0.0012970742580513854,9916,Tomatoes 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_vegetable_dips_24h,-0.0,0.0012970742580513854,9916,Vegetable dips 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_meat_substitutes_vegetarian_24h,-0.0047619073,0.0012970742580513854,9916,Meat substitutes - vegetarian 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_other_vegetables_including_mushrooms_fruiting_and_mixed_vegetables_24h,-0.0026282396,0.0012970742580513854,9916,"Other vegetables, including mushrooms, fruiting and mixed vegetables 24h"
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_vegetable_side_dishes_24h,0.0021908428,0.0012970742580513854,9916,Vegetable side dishes 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_water_still_and_sparkling_24h,0.0057893023,0.0012970742580513854,9916,Water (still and sparkling) 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_white_fish_and_tinned_tuna_24h,0.0042257262,0.0012970742580513854,9916,White fish and tinned tuna 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_whole_milk_24h,0.00086638733,0.0012970742580513854,9916,Whole milk 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_fortified_wine_24h,0.0,0.0012970742580513854,9916,Fortified wine 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_red_wine_24h,0.025894223,0.0012970742580513854,9916,Red wine 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_white_wine_24h,0.021588685,0.0012970742580513854,9916,White wine 24h
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_cream_24h,0.0,0.0012970742580513854,9916,Cream 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_animal_fat_spread_lower_fat_24h,0.0,0.005514218593998172,10906,Animal fat spread lower fat 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_animal_fat_spread_normal_24h,0.015897779,0.005514218593998172,10906,Animal fat spread normal 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_added_sugars_and_preserves_24h,0.0,0.005514218593998172,10906,Added sugars and preserves 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_allium_vegetables_24h,0.0048015914,0.005514218593998172,10906,Allium vegetables 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_beef_24h,-0.0,0.005514218593998172,10906,Beef 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_beer_and_cider_24h,-0.0045590815,0.005514218593998172,10906,Beer and cider 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_biscuits_24h,0.0036825547,0.005514218593998172,10906,Biscuits 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_breaded_battered_chicken_24h,-0.008508565,0.005514218593998172,10906,Breaded/battered chicken 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_breaded_battered_fish_24h,-0.0,0.005514218593998172,10906,Breaded/battered fish 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_mixed_bread_50_50_brown_and_seeded_24h,-0.0,0.005514218593998172,10906,"Mixed bread (50/50), brown and seeded 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_other_bread_24h,-0.0038425769,0.005514218593998172,10906,Other bread 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_white_bread_24h,-0.009566053,0.005514218593998172,10906,White bread 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_wholemeal_bread_24h,-0.008136323,0.005514218593998172,10906,Wholemeal bread 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_biscuit_cereal_24h,0.0,0.005514218593998172,10906,Biscuit cereal 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_bran_cereal_24h,-0.0,0.005514218593998172,10906,Bran cereal 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_oat_cereal_non_sugar_24h,-0.0052066925,0.005514218593998172,10906,Oat cereal (non sugar) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_oat_cereal_sugar_24h,-0.0,0.005514218593998172,10906,Oat cereal (sugar) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_other_cereal_sugar_24h,-0.0072209463,0.005514218593998172,10906,Other cereal (sugar) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_chocolate_confectionery_24h,0.01503485,0.005514218593998172,10906,Chocolate confectionery 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_coffee_caffeinated_24h,0.030206865,0.005514218593998172,10906,"Coffee, caffeinated 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_coffee_decaffeinated_24h,0.016717497,0.005514218593998172,10906,"Coffee, decaffeinated 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_savoury_crackers_24h,-0.0,0.005514218593998172,10906,Savoury crackers 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_milk_dairy_desserts_24h,0.0086645475,0.005514218593998172,10906,Milk-dairy desserts 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_other_desserts_and_cakes_and_pastries_24h,0.001495071,0.005514218593998172,10906,Other desserts and cakes and pastries 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_soy_desserts_and_yogurt_24h,0.003061828,0.005514218593998172,10906,Soy desserts and yogurt 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_milk_based_and_powdered_drinks_24h,-0.003965325,0.005514218593998172,10906,Milk-based and powdered drinks 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_egg_and_egg_dishes_24h,-0.0,0.005514218593998172,10906,Egg and egg dishes 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_apples_and_pears_24h,-0.0034868824,0.005514218593998172,10906,Apples and pears 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_berries_24h,-0.0,0.005514218593998172,10906,Berries 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_citrus_24h,0.0001335109,0.005514218593998172,10906,Citrus 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_dried_fruit_24h,0.0,0.005514218593998172,10906,Dried fruit 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_other_fruit_24h,-0.00744458,0.005514218593998172,10906,Other fruit 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_stewed_fruit_24h,0.004881175,0.005514218593998172,10906,Stewed fruit 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_fruit_juice_24h,0.0,0.005514218593998172,10906,Fruit juice 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_full_fat_yogurt_24h,0.0,0.005514218593998172,10906,Full fat yogurt 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_grain_dishes_added_fat_24h,0.0,0.005514218593998172,10906,Grain dishes - added fat 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_green_leafy_cabbages_24h,-0.0,0.005514218593998172,10906,Green leafy/cabbages 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_high_fat_cheese_24h,0.007989393,0.005514218593998172,10906,High fat cheese 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_lamb_24h,0.0,0.005514218593998172,10906,Lamb 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_legumes_and_pulses_24h,-0.00034730046,0.005514218593998172,10906,Legumes and pulses 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_low_fat_yogurt_24h,0.0,0.005514218593998172,10906,Low fat yogurt 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_medium_and_low_fat_cheese_24h,0.009175782,0.005514218593998172,10906,Medium and low fat cheese 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_other_meat_offal_24h,0.0,0.005514218593998172,10906,"Other meat, offal 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_muesli_24h,0.0,0.005514218593998172,10906,Muesli 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_nut_based_spreads_24h,0.0,0.005514218593998172,10906,Nut-based spreads 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_unsalted_nuts_and_seeds_24h,-0.02300542,0.005514218593998172,10906,Unsalted nuts and seeds 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_salted_nuts_and_seeds_24h,-0.0,0.005514218593998172,10906,Salted nuts and seeds 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_oily_fish_24h,-0.0,0.005514218593998172,10906,Oily fish 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_olive_oil_drizzling_dunking_24h,-0.0,0.005514218593998172,10906,Olive oil (drizzling/dunking) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_plant_based_spread_lower_fat_24h,-0.003106045,0.005514218593998172,10906,Plant-based spread lower fat 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_plant_based_spread_normal_24h,-0.0,0.005514218593998172,10906,Plant-based spread normal 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_white_pasta_and_rice_24h,-0.006305093,0.005514218593998172,10906,White pasta and rice 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_wholemeal_pasta_brown_rice_and_other_wholegrains_24h,-0.017624836,0.005514218593998172,10906,"Wholemeal pasta, brown rice and other wholegrains 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_peas_and_sweetcorn_24h,0.0,0.005514218593998172,10906,Peas and sweetcorn 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_pizza_24h,-0.0,0.005514218593998172,10906,Pizza 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_pork_24h,0.0010079769,0.005514218593998172,10906,Pork 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_potatoes_and_sweet_potatoes_baked_boiled_24h,-0.00034504785,0.005514218593998172,10906,Potatoes and sweet potatoes (baked/boiled) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_fried_roast_potatoes_24h,-0.0036944319,0.005514218593998172,10906,Fried/roast potatoes 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_mashed_potatoes_24h,0.0065087895,0.005514218593998172,10906,Mashed potatoes 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_poultry_24h,0.0073179738,0.005514218593998172,10906,Poultry 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_processed_meat_24h,-0.0,0.005514218593998172,10906,Processed meat 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_raw_salad_24h,0.0,0.005514218593998172,10906,Raw salad 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_rice_oat_milk_24h,-0.0045634992,0.005514218593998172,10906,Rice/oat milk 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_root_vegetables_24h,0.004906324,0.005514218593998172,10906,Root vegetables 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_low_non_sugar_sugar_sweetened_beverages_24h,0.0,0.005514218593998172,10906,Low/non sugar sugar-sweetened beverages 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_sugar_sweetened_beverages_and_other_sugary_drinks_24h,-0.0,0.005514218593998172,10906,Sugar-sweetened beverages and other sugary drinks 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_samosa_pakora_24h,-0.0,0.005514218593998172,10906,"Samosa, pakora 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_sauces_and_condiments_high_fat_24h,0.005935485,0.005514218593998172,10906,Sauces and condiments (high fat) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_sauces_and_condiments_low_fat_24h,-0.00352809,0.005514218593998172,10906,Sauces and condiments (low fat) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_semi_skimmed_milk_24h,0.011732973,0.005514218593998172,10906,Semi skimmed milk 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_shellfish_24h,-0.0,0.005514218593998172,10906,Shellfish 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_skimmed_milk_and_cholesterol_lowering_milk_24h,-0.007197724,0.005514218593998172,10906,Skimmed milk and cholesterol-lowering milk 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_savoury_snacks_24h,-0.0052278945,0.005514218593998172,10906,Savoury snacks 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_soups_24h,-0.006412446,0.005514218593998172,10906,Soups 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_soy_milk_24h,-0.0037549627,0.005514218593998172,10906,Soy milk 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_meat_substitutes_soy_24h,-0.0023672802,0.005514218593998172,10906,Meat substitutes - soy 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_spirits_24h,-0.0,0.005514218593998172,10906,Spirits 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_sushi_24h,0.0,0.005514218593998172,10906,Sushi 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_other_sweets_24h,-0.004307675,0.005514218593998172,10906,Other sweets 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_tea_24h,-0.0011742321,0.005514218593998172,10906,Tea 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_tea_decaffeinated_24h,-0.0,0.005514218593998172,10906,"Tea, decaffeinated 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_tomatoes_24h,0.0007520368,0.005514218593998172,10906,Tomatoes 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_vegetable_dips_24h,-0.012488733,0.005514218593998172,10906,Vegetable dips 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_meat_substitutes_vegetarian_24h,-0.014400405,0.005514218593998172,10906,Meat substitutes - vegetarian 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_other_vegetables_including_mushrooms_fruiting_and_mixed_vegetables_24h,-0.01132887,0.005514218593998172,10906,"Other vegetables, including mushrooms, fruiting and mixed vegetables 24h"
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_vegetable_side_dishes_24h,-0.005865934,0.005514218593998172,10906,Vegetable side dishes 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_water_still_and_sparkling_24h,-0.02025772,0.005514218593998172,10906,Water (still and sparkling) 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_white_fish_and_tinned_tuna_24h,-0.0,0.005514218593998172,10906,White fish and tinned tuna 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_whole_milk_24h,0.006542424,0.005514218593998172,10906,Whole milk 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_fortified_wine_24h,-0.0,0.005514218593998172,10906,Fortified wine 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_red_wine_24h,-0.00660233,0.005514218593998172,10906,Red wine 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_white_wine_24h,-0.0,0.005514218593998172,10906,White wine 24h
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_cream_24h,0.011980515,0.005514218593998172,10906,Cream 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_animal_fat_spread_lower_fat_24h,-0.00060819584,0.0005628590981398849,9847,Animal fat spread lower fat 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_animal_fat_spread_normal_24h,0.005113905,0.0005628590981398849,9847,Animal fat spread normal 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_added_sugars_and_preserves_24h,-0.0071744574,0.0005628590981398849,9847,Added sugars and preserves 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_allium_vegetables_24h,0.0007623116,0.0005628590981398849,9847,Allium vegetables 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_beef_24h,0.003695323,0.0005628590981398849,9847,Beef 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_beer_and_cider_24h,0.016236432,0.0005628590981398849,9847,Beer and cider 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_biscuits_24h,0.0,0.0005628590981398849,9847,Biscuits 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_breaded_battered_chicken_24h,0.0,0.0005628590981398849,9847,Breaded/battered chicken 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_breaded_battered_fish_24h,0.0013350227,0.0005628590981398849,9847,Breaded/battered fish 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_mixed_bread_50_50_brown_and_seeded_24h,-0.0,0.0005628590981398849,9847,"Mixed bread (50/50), brown and seeded 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_other_bread_24h,-0.003858842,0.0005628590981398849,9847,Other bread 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_white_bread_24h,-0.0028727623,0.0005628590981398849,9847,White bread 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_wholemeal_bread_24h,-0.0013356557,0.0005628590981398849,9847,Wholemeal bread 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_biscuit_cereal_24h,-0.0057857484,0.0005628590981398849,9847,Biscuit cereal 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_bran_cereal_24h,-0.0001265306,0.0005628590981398849,9847,Bran cereal 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_oat_cereal_non_sugar_24h,-0.0016721493,0.0005628590981398849,9847,Oat cereal (non sugar) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_oat_cereal_sugar_24h,0.00030462418,0.0005628590981398849,9847,Oat cereal (sugar) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_other_cereal_sugar_24h,-0.005526787,0.0005628590981398849,9847,Other cereal (sugar) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_chocolate_confectionery_24h,0.0012270771,0.0005628590981398849,9847,Chocolate confectionery 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_coffee_caffeinated_24h,0.0039472836,0.0005628590981398849,9847,"Coffee, caffeinated 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_coffee_decaffeinated_24h,0.0,0.0005628590981398849,9847,"Coffee, decaffeinated 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_savoury_crackers_24h,-0.0007392797,0.0005628590981398849,9847,Savoury crackers 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_milk_dairy_desserts_24h,0.0009593231,0.0005628590981398849,9847,Milk-dairy desserts 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_other_desserts_and_cakes_and_pastries_24h,1.5097099e-05,0.0005628590981398849,9847,Other desserts and cakes and pastries 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_soy_desserts_and_yogurt_24h,-0.00043406375,0.0005628590981398849,9847,Soy desserts and yogurt 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_milk_based_and_powdered_drinks_24h,-1.2879543e-05,0.0005628590981398849,9847,Milk-based and powdered drinks 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_egg_and_egg_dishes_24h,0.001191372,0.0005628590981398849,9847,Egg and egg dishes 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_apples_and_pears_24h,-0.0018494035,0.0005628590981398849,9847,Apples and pears 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_berries_24h,0.0013445793,0.0005628590981398849,9847,Berries 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_citrus_24h,-0.0027106965,0.0005628590981398849,9847,Citrus 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_dried_fruit_24h,0.0,0.0005628590981398849,9847,Dried fruit 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_other_fruit_24h,-0.0024844282,0.0005628590981398849,9847,Other fruit 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_stewed_fruit_24h,-0.0015237964,0.0005628590981398849,9847,Stewed fruit 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_fruit_juice_24h,0.0020621875,0.0005628590981398849,9847,Fruit juice 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_full_fat_yogurt_24h,0.0,0.0005628590981398849,9847,Full fat yogurt 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_grain_dishes_added_fat_24h,0.00064462837,0.0005628590981398849,9847,Grain dishes - added fat 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_green_leafy_cabbages_24h,0.0,0.0005628590981398849,9847,Green leafy/cabbages 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_high_fat_cheese_24h,0.003288114,0.0005628590981398849,9847,High fat cheese 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_lamb_24h,-0.0,0.0005628590981398849,9847,Lamb 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_legumes_and_pulses_24h,-0.0012653728,0.0005628590981398849,9847,Legumes and pulses 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_low_fat_yogurt_24h,-0.003109591,0.0005628590981398849,9847,Low fat yogurt 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_medium_and_low_fat_cheese_24h,0.0,0.0005628590981398849,9847,Medium and low fat cheese 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_other_meat_offal_24h,0.0034166744,0.0005628590981398849,9847,"Other meat, offal 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_muesli_24h,-0.002354549,0.0005628590981398849,9847,Muesli 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_nut_based_spreads_24h,0.0009697303,0.0005628590981398849,9847,Nut-based spreads 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_unsalted_nuts_and_seeds_24h,-0.0,0.0005628590981398849,9847,Unsalted nuts and seeds 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_salted_nuts_and_seeds_24h,0.0012985284,0.0005628590981398849,9847,Salted nuts and seeds 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_oily_fish_24h,0.0010757532,0.0005628590981398849,9847,Oily fish 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_olive_oil_drizzling_dunking_24h,0.00038240175,0.0005628590981398849,9847,Olive oil (drizzling/dunking) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_plant_based_spread_lower_fat_24h,-2.0699099e-05,0.0005628590981398849,9847,Plant-based spread lower fat 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_plant_based_spread_normal_24h,0.0011258131,0.0005628590981398849,9847,Plant-based spread normal 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_white_pasta_and_rice_24h,-0.0027435983,0.0005628590981398849,9847,White pasta and rice 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_wholemeal_pasta_brown_rice_and_other_wholegrains_24h,-0.0017858436,0.0005628590981398849,9847,"Wholemeal pasta, brown rice and other wholegrains 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_peas_and_sweetcorn_24h,-0.0,0.0005628590981398849,9847,Peas and sweetcorn 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_pizza_24h,-0.00108534,0.0005628590981398849,9847,Pizza 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_pork_24h,0.0017173947,0.0005628590981398849,9847,Pork 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_potatoes_and_sweet_potatoes_baked_boiled_24h,0.00022027871,0.0005628590981398849,9847,Potatoes and sweet potatoes (baked/boiled) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_fried_roast_potatoes_24h,-0.0011747398,0.0005628590981398849,9847,Fried/roast potatoes 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_mashed_potatoes_24h,-0.0004948278,0.0005628590981398849,9847,Mashed potatoes 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_poultry_24h,0.004962075,0.0005628590981398849,9847,Poultry 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_processed_meat_24h,0.0010961619,0.0005628590981398849,9847,Processed meat 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_raw_salad_24h,2.56741e-05,0.0005628590981398849,9847,Raw salad 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_rice_oat_milk_24h,0.0015323083,0.0005628590981398849,9847,Rice/oat milk 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_root_vegetables_24h,-0.0017726005,0.0005628590981398849,9847,Root vegetables 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_low_non_sugar_sugar_sweetened_beverages_24h,0.00053761515,0.0005628590981398849,9847,Low/non sugar sugar-sweetened beverages 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_sugar_sweetened_beverages_and_other_sugary_drinks_24h,-0.0024882446,0.0005628590981398849,9847,Sugar-sweetened beverages and other sugary drinks 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_samosa_pakora_24h,-0.0023434244,0.0005628590981398849,9847,"Samosa, pakora 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_sauces_and_condiments_high_fat_24h,0.0025836497,0.0005628590981398849,9847,Sauces and condiments (high fat) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_sauces_and_condiments_low_fat_24h,-0.00065427413,0.0005628590981398849,9847,Sauces and condiments (low fat) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_semi_skimmed_milk_24h,-0.0,0.0005628590981398849,9847,Semi skimmed milk 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_shellfish_24h,0.00018355518,0.0005628590981398849,9847,Shellfish 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_skimmed_milk_and_cholesterol_lowering_milk_24h,-0.003293811,0.0005628590981398849,9847,Skimmed milk and cholesterol-lowering milk 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_savoury_snacks_24h,9.8172284e-05,0.0005628590981398849,9847,Savoury snacks 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_soups_24h,-0.00027789388,0.0005628590981398849,9847,Soups 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_soy_milk_24h,-0.0003435532,0.0005628590981398849,9847,Soy milk 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_meat_substitutes_soy_24h,-0.0033020445,0.0005628590981398849,9847,Meat substitutes - soy 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_spirits_24h,0.008083689,0.0005628590981398849,9847,Spirits 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_sushi_24h,0.0005397119,0.0005628590981398849,9847,Sushi 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_other_sweets_24h,-0.00090968865,0.0005628590981398849,9847,Other sweets 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_tea_24h,0.002674607,0.0005628590981398849,9847,Tea 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_tea_decaffeinated_24h,0.0010069124,0.0005628590981398849,9847,"Tea, decaffeinated 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_tomatoes_24h,0.0032375127,0.0005628590981398849,9847,Tomatoes 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_vegetable_dips_24h,0.0,0.0005628590981398849,9847,Vegetable dips 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_meat_substitutes_vegetarian_24h,-0.0019552791,0.0005628590981398849,9847,Meat substitutes - vegetarian 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_other_vegetables_including_mushrooms_fruiting_and_mixed_vegetables_24h,-0.0004808493,0.0005628590981398849,9847,"Other vegetables, including mushrooms, fruiting and mixed vegetables 24h"
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_vegetable_side_dishes_24h,0.003382746,0.0005628590981398849,9847,Vegetable side dishes 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_water_still_and_sparkling_24h,0.0060468195,0.0005628590981398849,9847,Water (still and sparkling) 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_white_fish_and_tinned_tuna_24h,0.0008672099,0.0005628590981398849,9847,White fish and tinned tuna 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_whole_milk_24h,0.0008960545,0.0005628590981398849,9847,Whole milk 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_fortified_wine_24h,-0.0,0.0005628590981398849,9847,Fortified wine 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_red_wine_24h,0.017988339,0.0005628590981398849,9847,Red wine 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_white_wine_24h,0.015708948,0.0005628590981398849,9847,White wine 24h
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_cream_24h,0.0,0.0005628590981398849,9847,Cream 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_animal_fat_spread_lower_fat_24h,0.0,0.003233180639572208,10854,Animal fat spread lower fat 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_animal_fat_spread_normal_24h,7.270312e-05,0.003233180639572208,10854,Animal fat spread normal 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_added_sugars_and_preserves_24h,0.0,0.003233180639572208,10854,Added sugars and preserves 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_allium_vegetables_24h,0.0,0.003233180639572208,10854,Allium vegetables 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_beef_24h,-0.0,0.003233180639572208,10854,Beef 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_beer_and_cider_24h,-0.0,0.003233180639572208,10854,Beer and cider 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_biscuits_24h,0.0,0.003233180639572208,10854,Biscuits 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_breaded_battered_chicken_24h,-0.00024497745,0.003233180639572208,10854,Breaded/battered chicken 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_breaded_battered_fish_24h,-0.0,0.003233180639572208,10854,Breaded/battered fish 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_mixed_bread_50_50_brown_and_seeded_24h,-0.0,0.003233180639572208,10854,"Mixed bread (50/50), brown and seeded 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_other_bread_24h,-0.0,0.003233180639572208,10854,Other bread 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_white_bread_24h,-0.0,0.003233180639572208,10854,White bread 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_wholemeal_bread_24h,-0.0,0.003233180639572208,10854,Wholemeal bread 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_biscuit_cereal_24h,0.0,0.003233180639572208,10854,Biscuit cereal 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_bran_cereal_24h,-0.0,0.003233180639572208,10854,Bran cereal 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_oat_cereal_non_sugar_24h,-0.0,0.003233180639572208,10854,Oat cereal (non sugar) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_oat_cereal_sugar_24h,-0.0,0.003233180639572208,10854,Oat cereal (sugar) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_other_cereal_sugar_24h,-0.0,0.003233180639572208,10854,Other cereal (sugar) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_chocolate_confectionery_24h,0.0011579234,0.003233180639572208,10854,Chocolate confectionery 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_coffee_caffeinated_24h,0.0040506874,0.003233180639572208,10854,"Coffee, caffeinated 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_coffee_decaffeinated_24h,0.0016224219,0.003233180639572208,10854,"Coffee, decaffeinated 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_savoury_crackers_24h,-0.0,0.003233180639572208,10854,Savoury crackers 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_milk_dairy_desserts_24h,0.0,0.003233180639572208,10854,Milk-dairy desserts 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_other_desserts_and_cakes_and_pastries_24h,-0.0,0.003233180639572208,10854,Other desserts and cakes and pastries 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_soy_desserts_and_yogurt_24h,0.0,0.003233180639572208,10854,Soy desserts and yogurt 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_milk_based_and_powdered_drinks_24h,-0.0,0.003233180639572208,10854,Milk-based and powdered drinks 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_egg_and_egg_dishes_24h,0.0,0.003233180639572208,10854,Egg and egg dishes 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_apples_and_pears_24h,-0.0011808629,0.003233180639572208,10854,Apples and pears 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_berries_24h,-0.0,0.003233180639572208,10854,Berries 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_citrus_24h,0.0,0.003233180639572208,10854,Citrus 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_dried_fruit_24h,-0.0,0.003233180639572208,10854,Dried fruit 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_other_fruit_24h,-0.0014345993,0.003233180639572208,10854,Other fruit 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_stewed_fruit_24h,0.0,0.003233180639572208,10854,Stewed fruit 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_fruit_juice_24h,0.0,0.003233180639572208,10854,Fruit juice 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_full_fat_yogurt_24h,-0.0,0.003233180639572208,10854,Full fat yogurt 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_grain_dishes_added_fat_24h,0.0,0.003233180639572208,10854,Grain dishes - added fat 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_green_leafy_cabbages_24h,-0.0,0.003233180639572208,10854,Green leafy/cabbages 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_high_fat_cheese_24h,0.0,0.003233180639572208,10854,High fat cheese 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_lamb_24h,0.0,0.003233180639572208,10854,Lamb 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_legumes_and_pulses_24h,-0.0,0.003233180639572208,10854,Legumes and pulses 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_low_fat_yogurt_24h,0.0,0.003233180639572208,10854,Low fat yogurt 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_medium_and_low_fat_cheese_24h,0.0,0.003233180639572208,10854,Medium and low fat cheese 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_other_meat_offal_24h,-0.0,0.003233180639572208,10854,"Other meat, offal 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_muesli_24h,0.0,0.003233180639572208,10854,Muesli 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_nut_based_spreads_24h,0.0,0.003233180639572208,10854,Nut-based spreads 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_unsalted_nuts_and_seeds_24h,-0.0045331074,0.003233180639572208,10854,Unsalted nuts and seeds 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_salted_nuts_and_seeds_24h,-0.0,0.003233180639572208,10854,Salted nuts and seeds 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_oily_fish_24h,0.0,0.003233180639572208,10854,Oily fish 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_olive_oil_drizzling_dunking_24h,-0.0,0.003233180639572208,10854,Olive oil (drizzling/dunking) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_plant_based_spread_lower_fat_24h,-0.0,0.003233180639572208,10854,Plant-based spread lower fat 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_plant_based_spread_normal_24h,-0.0,0.003233180639572208,10854,Plant-based spread normal 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_white_pasta_and_rice_24h,-0.0007917138,0.003233180639572208,10854,White pasta and rice 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_wholemeal_pasta_brown_rice_and_other_wholegrains_24h,-0.0036379644,0.003233180639572208,10854,"Wholemeal pasta, brown rice and other wholegrains 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_peas_and_sweetcorn_24h,0.0,0.003233180639572208,10854,Peas and sweetcorn 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_pizza_24h,-0.0,0.003233180639572208,10854,Pizza 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_pork_24h,0.0,0.003233180639572208,10854,Pork 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_potatoes_and_sweet_potatoes_baked_boiled_24h,-0.0,0.003233180639572208,10854,Potatoes and sweet potatoes (baked/boiled) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_fried_roast_potatoes_24h,-0.0,0.003233180639572208,10854,Fried/roast potatoes 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_mashed_potatoes_24h,0.00012334644,0.003233180639572208,10854,Mashed potatoes 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_poultry_24h,0.0011683134,0.003233180639572208,10854,Poultry 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_processed_meat_24h,-0.0,0.003233180639572208,10854,Processed meat 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_raw_salad_24h,0.0,0.003233180639572208,10854,Raw salad 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_rice_oat_milk_24h,-0.00032353264,0.003233180639572208,10854,Rice/oat milk 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_root_vegetables_24h,0.0,0.003233180639572208,10854,Root vegetables 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_low_non_sugar_sugar_sweetened_beverages_24h,0.0,0.003233180639572208,10854,Low/non sugar sugar-sweetened beverages 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_sugar_sweetened_beverages_and_other_sugary_drinks_24h,-0.0,0.003233180639572208,10854,Sugar-sweetened beverages and other sugary drinks 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_samosa_pakora_24h,0.0,0.003233180639572208,10854,"Samosa, pakora 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_sauces_and_condiments_high_fat_24h,0.0,0.003233180639572208,10854,Sauces and condiments (high fat) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_sauces_and_condiments_low_fat_24h,-0.0,0.003233180639572208,10854,Sauces and condiments (low fat) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_semi_skimmed_milk_24h,0.0,0.003233180639572208,10854,Semi skimmed milk 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_shellfish_24h,-0.0,0.003233180639572208,10854,Shellfish 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_skimmed_milk_and_cholesterol_lowering_milk_24h,-0.00083263515,0.003233180639572208,10854,Skimmed milk and cholesterol-lowering milk 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_savoury_snacks_24h,-0.0,0.003233180639572208,10854,Savoury snacks 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_soups_24h,-0.0,0.003233180639572208,10854,Soups 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_soy_milk_24h,-0.0,0.003233180639572208,10854,Soy milk 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_meat_substitutes_soy_24h,-0.0,0.003233180639572208,10854,Meat substitutes - soy 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_spirits_24h,-0.0,0.003233180639572208,10854,Spirits 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_sushi_24h,0.0,0.003233180639572208,10854,Sushi 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_other_sweets_24h,-0.0,0.003233180639572208,10854,Other sweets 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_tea_24h,-0.0004985926,0.003233180639572208,10854,Tea 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_tea_decaffeinated_24h,-0.0,0.003233180639572208,10854,"Tea, decaffeinated 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_tomatoes_24h,-0.0,0.003233180639572208,10854,Tomatoes 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_vegetable_dips_24h,-0.0018633956,0.003233180639572208,10854,Vegetable dips 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_meat_substitutes_vegetarian_24h,-0.0029125195,0.003233180639572208,10854,Meat substitutes - vegetarian 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_other_vegetables_including_mushrooms_fruiting_and_mixed_vegetables_24h,-0.0,0.003233180639572208,10854,"Other vegetables, including mushrooms, fruiting and mixed vegetables 24h"
+apolipoprotein_b_g_L,Apolipoprotein B,diet_vegetable_side_dishes_24h,-0.00046971455,0.003233180639572208,10854,Vegetable side dishes 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_water_still_and_sparkling_24h,-0.0032562683,0.003233180639572208,10854,Water (still and sparkling) 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_white_fish_and_tinned_tuna_24h,-0.0,0.003233180639572208,10854,White fish and tinned tuna 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_whole_milk_24h,0.0,0.003233180639572208,10854,Whole milk 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_fortified_wine_24h,0.0,0.003233180639572208,10854,Fortified wine 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_red_wine_24h,-0.0,0.003233180639572208,10854,Red wine 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_white_wine_24h,-0.0,0.003233180639572208,10854,White wine 24h
+apolipoprotein_b_g_L,Apolipoprotein B,diet_cream_24h,0.001444808,0.003233180639572208,10854,Cream 24h
