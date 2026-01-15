@@ -1,0 +1,8 @@
+source_column,output_column,skewness,transform,display_label,unit,base_label
+Triglycerides | Instance 0,triglycerides_mmol_L_log,2.081108105115608,log,Triglycerides (log),mmol/L,Triglycerides
+Cholesterol | Instance 0,total_cholesterol_mmol_L,0.2856567984469284,none,Total cholesterol,mmol/L,Total cholesterol
+HDL cholesterol | Instance 0,hdl_cholesterol_mmol_L_log,0.7755851627729357,log,HDL cholesterol (log),mmol/L,HDL cholesterol
+LDL direct | Instance 0,ldl_cholesterol_mmol_L,0.3298565681829322,none,LDL cholesterol,mmol/L,LDL cholesterol
+Apolipoprotein A | Instance 0,apolipoprotein_a_g_L_log,0.5637601960645545,log,Apolipoprotein A (log),g/L,Apolipoprotein A
+Apolipoprotein B | Instance 0,apolipoprotein_b_g_L,0.3997813685651197,none,Apolipoprotein B,g/L,Apolipoprotein B
+Lipoprotein A | Instance 0,lipoprotein_a_nmol_L_log,1.393449087980001,log,Lipoprotein A (log),nmol/L,Lipoprotein A

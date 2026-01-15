@@ -1,0 +1,43 @@
+================================================================================
+样本数据审阅报告 - SAMPLE REVIEW
+生成时间: 2025-11-20 17:32:48.896510
+================================================================================
+
+[1] 原始数据概况
+原始数据文件: /public3/data/zhangxuanyu/Li_Jinxia_program/results_gpt5.1codex/merged_lipid_diet_dataset_with_prs_24h_matched_total_weight_by_food_group_yesterday_36.0h_80pct.csv
+原始样本总数: 10,943
+原始列总数: 113
+
+[2] 变量构成
+脂质指标数量: 6
+饮食变量数量: 93
+数值型协变量: 9
+分类协变量: 3
+
+[3] 缺失值处理
+插补变量数量: 3
+  cov_body_mass_index: 25.9262
+  cov_alcohol_status: Missing
+  cov_current_smoking: Missing
+
+[4] 最终可分析样本
+完整样本数量: 10,943
+OLS回归使用样本: 10,943 (全部样本)
+LASSO回归使用样本: 10,943 (全部样本)
+PCA分析使用样本: 10,943
+
+[5] 样本完整性
+脂质指标缺失情况:
+  triglycerides_mmol_L_log: 18 (0.16%)
+  total_cholesterol_mmol_L: 22 (0.20%)
+  hdl_cholesterol_mmol_L_log: 1027 (9.38%)
+  ldl_cholesterol_mmol_L: 37 (0.34%)
+  apolipoprotein_a_g_L_log: 1096 (10.02%)
+  apolipoprotein_b_g_L: 89 (0.81%)
+饮食变量缺失总数: 0
+协变量缺失总数: 0
+
+[6] 分析计划
+脂质指标数量: 6
+预计总模型数量: 24
+Bootstrap重复: 20

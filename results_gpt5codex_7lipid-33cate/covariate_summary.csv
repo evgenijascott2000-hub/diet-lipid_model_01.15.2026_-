@@ -1,0 +1,7 @@
+output_column,title,type
+cov_age_at_assessment,Age when attended assessment centre | Instance 0,numeric
+cov_body_mass_index,Body mass index (BMI) | Instance 0,numeric
+cov_sex,Sex,category
+cov_alcohol_status,Alcohol drinker status | Instance 0,category
+cov_fasting_time,Fasting time | Instance 0,numeric
+cov_current_smoking,Current tobacco smoking | Instance 0,category

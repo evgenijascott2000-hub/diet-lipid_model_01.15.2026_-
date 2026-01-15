@@ -1,0 +1,34 @@
+raw_column,output_column,field_id,non_missing,unique_values,display_label,slug
+Cooked vegetable intake | Instance 0,diet_cooked_vegetable_intake,1289,336852,41,Cooked vegetable intake,cooked_vegetable_intake
+Salad / raw vegetable intake | Instance 0,diet_salad_raw_vegetable_intake,1299,327759,43,Salad / raw vegetable intake,salad_raw_vegetable_intake
+Fresh fruit intake | Instance 0,diet_fresh_fruit_intake,1309,335493,38,Fresh fruit intake,fresh_fruit_intake
+Dried fruit intake | Instance 0,diet_dried_fruit_intake,1319,315908,44,Dried fruit intake,dried_fruit_intake
+Oily fish intake | Instance 0,diet_oily_fish_intake,1329,348081,8,Oily fish intake,oily_fish_intake
+Non-oily fish intake | Instance 0,diet_non_oily_fish_intake,1339,348081,8,Non-oily fish intake,non_oily_fish_intake
+Processed meat intake | Instance 0,diet_processed_meat_intake,1349,348081,8,Processed meat intake,processed_meat_intake
+Poultry intake | Instance 0,diet_poultry_intake,1359,348081,8,Poultry intake,poultry_intake
+Beef intake | Instance 0,diet_beef_intake,1369,348081,8,Beef intake,beef_intake
+Lamb/mutton intake | Instance 0,diet_lamb_mutton_intake,1379,348081,8,Lamb/mutton intake,lamb_mutton_intake
+Pork intake | Instance 0,diet_pork_intake,1389,348080,8,Pork intake,pork_intake
+Age when last ate meat | Instance 0,diet_age_when_last_ate_meat,3680,15876,70,Age when last ate meat,age_when_last_ate_meat
+"Never eat eggs, dairy, wheat, sugar | Instance 0",diet_never_eat_eggs_dairy_wheat_sugar,6144,347824,17,"Never eat eggs, dairy, wheat, sugar",never_eat_eggs_dairy_wheat_sugar
+"Never eat eggs, dairy, wheat, sugar (pilot) | Instance 0",diet_never_eat_eggs_dairy_wheat_sugar_pilot,10855,256,8,"Never eat eggs, dairy, wheat, sugar (pilot)",never_eat_eggs_dairy_wheat_sugar_pilot
+Cheese intake | Instance 0,diet_cheese_intake,1408,340539,8,Cheese intake,cheese_intake
+Milk type used | Instance 0,diet_milk_type_used,1418,348077,8,Milk type used,milk_type_used
+Spread type | Instance 0,diet_spread_type,1428,347824,6,Spread type,spread_type
+Non-butter spread type details | Instance 0,diet_non_butter_spread_type_details,2654,173888,9,Non-butter spread type details,non_butter_spread_type_details
+Spread type (pilot) | Instance 0,diet_spread_type_pilot,10767,256,6,Spread type (pilot),spread_type_pilot
+Bread intake | Instance 0,diet_bread_intake,1438,339685,88,Bread intake,bread_intake
+Bread type | Instance 0,diet_bread_type,1448,335326,6,Bread type,bread_type
+Bread type/intake (pilot) | Instance 0,diet_bread_type_intake_pilot,10776,250,5,Bread type/intake (pilot),bread_type_intake_pilot
+Cereal intake | Instance 0,diet_cereal_intake,1458,331267,29,Cereal intake,cereal_intake
+Cereal type | Instance 0,diet_cereal_type,1468,288044,7,Cereal type,cereal_type
+Salt added to food | Instance 0,diet_salt_added_to_food,1478,348080,5,Salt added to food,salt_added_to_food
+Tea intake | Instance 0,diet_tea_intake,1488,336452,48,Tea intake,tea_intake
+Coffee intake | Instance 0,diet_coffee_intake,1498,321866,36,Coffee intake,coffee_intake
+Coffee type | Instance 0,diet_coffee_type,1508,270278,6,Coffee type,coffee_type
+Hot drink temperature | Instance 0,diet_hot_drink_temperature,1518,348080,5,Hot drink temperature,hot_drink_temperature
+Water intake | Instance 0,diet_water_intake,1528,322047,38,Water intake,water_intake
+Major dietary changes in the last 5 years | Instance 0,diet_major_dietary_changes_in_the_last_5_years,1538,348080,4,Major dietary changes in the last 5 years,major_dietary_changes_in_the_last_5_years
+Variation in diet | Instance 0,diet_variation_in_diet,1548,347824,5,Variation in diet,variation_in_diet
+Variation in diet (pilot) | Instance 0,diet_variation_in_diet_pilot,10912,256,4,Variation in diet (pilot),variation_in_diet_pilot

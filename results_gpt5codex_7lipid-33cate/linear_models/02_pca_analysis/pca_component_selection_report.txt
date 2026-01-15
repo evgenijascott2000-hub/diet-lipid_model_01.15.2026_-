@@ -1,0 +1,98 @@
+PCA Component Analysis Report
+==================================================
+Total components extracted: 27
+Total features (diet variables): 93
+Sample size: 10943
+
+Component Selection Criteria:
+  95% variance threshold: 84 components
+  80% variance threshold: 67 components
+  Kaiser criterion (eigenvalue > 1): 41 components
+  Elbow method suggestion: 2 components
+
+Individual Component Variance:
+PC1: 2.98%
+PC2: 2.07%
+PC3: 1.85%
+PC4: 1.65%
+PC5: 1.61%
+PC6: 1.55%
+PC7: 1.49%
+PC8: 1.47%
+PC9: 1.45%
+PC10: 1.42%
+PC11: 1.39%
+PC12: 1.35%
+PC13: 1.34%
+PC14: 1.32%
+PC15: 1.30%
+PC16: 1.30%
+PC17: 1.29%
+PC18: 1.27%
+PC19: 1.26%
+PC20: 1.25%
+PC21: 1.23%
+PC22: 1.23%
+PC23: 1.21%
+PC24: 1.20%
+PC25: 1.19%
+PC26: 1.19%
+PC27: 1.18%
+
+Cumulative Variance Explained:
+  PC1-1: 2.98%
+  PC1-2: 5.05%
+  PC1-3: 6.90%
+  PC1-4: 8.55%
+  PC1-5: 10.16%
+  PC1-6: 11.71%
+  PC1-7: 13.20%
+  PC1-8: 14.67%
+  PC1-9: 16.12%
+  PC1-10: 17.54%
+  PC1-11: 18.93%
+  PC1-12: 20.29%
+  PC1-13: 21.62%
+  PC1-14: 22.94%
+  PC1-15: 24.24%
+  PC1-16: 25.54%
+  PC1-17: 26.83%
+  PC1-18: 28.10%
+  PC1-19: 29.36%
+  PC1-20: 30.61%
+  PC1-21: 31.84%
+  PC1-22: 33.07%
+  PC1-23: 34.28%
+  PC1-24: 35.48%
+  PC1-25: 36.67%
+  PC1-26: 37.86%
+  PC1-27: 39.04%
+
+Eigenvalues (for Kaiser criterion):
+  PC1: 2.7747
+  PC2: 1.9254
+  PC3: 1.7192
+  PC4: 1.5309
+  PC5: 1.4992
+  PC6: 1.4437
+  PC7: 1.3877
+  PC8: 1.3665
+  PC9: 1.3464
+  PC10: 1.3190
+  PC11: 1.2964
+  PC12: 1.2579
+  PC13: 1.2435
+  PC14: 1.2232
+  PC15: 1.2120
+  PC16: 1.2104
+  PC17: 1.2001
+  PC18: 1.1770
+  PC19: 1.1738
+  PC20: 1.1630
+  PC21: 1.1465
+  PC22: 1.1420
+  PC23: 1.1237
+  PC24: 1.1154
+  PC25: 1.1091
+  PC26: 1.1047
+  PC27: 1.1016
