@@ -1,0 +1,41 @@
+================================================================================
+SENSITIVITY ANALYSIS REPORT
+Dietary Variable Encoding Methods Comparison
+================================================================================
+
+Test Lipid: log(Triglycerides)
+Number of variables tested: 10
+
+ENCODING METHODS COMPARED:
+--------------------------------------------------------------------------------
+Method 1: Original Categorical (0-5)
+  - 0=Never, 1=<1/week, 2=1/week, 3=2-4/week, 4=5-6/week, 5=Daily
+  - Assumes equal spacing between categories
+
+Method 2: Weekly Frequency (0.0-7.0 times/week)
+  - 0=0.0, 1=0.5, 2=1.0, 3=3.0, 4=5.5, 5=7.0
+  - More realistic frequency estimates
+
+Method 3: Dummy Variables (One-Hot)
+  - Each category becomes a binary indicator
+  - No ordering assumptions
+  - Not tested extensively (high dimensionality)
+
+RESULTS:
+--------------------------------------------------------------------------------
+Beta coefficient correlation (Method 1 vs 2): 0.925
+Direction consistency: 90.0%
+
+INTERPRETATION:
+--------------------------------------------------------------------------------
+⚠ MODERATE: Some differences between methods.
+  Recommend reporting both methods or discussing sensitivity.
+
+================================================================================
+RECOMMENDATION:
+--------------------------------------------------------------------------------
+For publication, we recommend:
+1. Use Method 2 (weekly frequency) as primary analysis
+2. Report Method 1 results in supplementary materials
+3. State explicitly that results are consistent across methods
+4. Acknowledge the equal-spacing assumption in limitations

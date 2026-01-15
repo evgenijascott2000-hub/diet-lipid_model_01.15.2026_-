@@ -1,0 +1,73 @@
+================================================================================
+样本数据审阅报告 - SAMPLE REVIEW
+生成时间: 2025-11-20 18:57:25.216121
+================================================================================
+
+[1] 原始数据概况
+原始数据文件: /public3/data/zhangxuanyu/Li_Jinxia_program/results_gpt5codex_7lipid-33cate/merged_lipid_diet_dataset_with_prs.csv
+原始样本总数: 72,811
+原始列总数: 49
+
+[2] 变量构成
+脂质指标数量: 6
+饮食变量数量: 17
+数值型协变量: 9
+分类协变量: 3
+
+[3] 缺失值处理
+插补变量数量: 33
+  diet_cooked_vegetable_intake: 3.0
+  diet_salad_raw_vegetable_intake: 2.0
+  diet_fresh_fruit_intake: 2.0
+  diet_dried_fruit_intake: 0.0
+  diet_oily_fish_intake: 3.0
+  diet_non_oily_fish_intake: 4.0
+  diet_processed_meat_intake: 3.0
+  diet_poultry_intake: 3.0
+  diet_beef_intake: 3.0
+  diet_lamb_mutton_intake: 3.0
+  diet_pork_intake: 3.0
+  diet_age_when_last_ate_meat: 27.0
+  diet_never_eat_eggs_dairy_wheat_sugar: 12.0
+  diet_cheese_intake: 1.0
+  diet_milk_type_used: 5.0
+  diet_spread_type: 3.0
+  diet_non_butter_spread_type_details: 4.0
+  diet_bread_intake: 10.0
+  diet_bread_type: 5.0
+  diet_cereal_intake: 5.0
+  diet_cereal_type: 3.0
+  diet_salt_added_to_food: 1.0
+  diet_tea_intake: 3.0
+  diet_coffee_intake: 1.0
+  diet_coffee_type: 3.0
+  diet_hot_drink_temperature: 1.0
+  diet_water_intake: 3.0
+  diet_major_dietary_changes_in_the_last_5_years: 0.0
+  diet_variation_in_diet: 4.0
+  cov_body_mass_index: 26.1228
+  cov_fasting_time: 3.0
+  cov_alcohol_status: Missing
+  cov_current_smoking: Missing
+
+[4] 最终可分析样本
+完整样本数量: 72,811
+OLS回归使用样本: 72,811 (全部样本)
+LASSO回归使用样本: 72,811 (全部样本)
+PCA分析使用样本: 72,811
+
+[5] 样本完整性
+脂质指标缺失情况:
+  triglycerides_mmol_L_log: 145 (0.20%)
+  total_cholesterol_mmol_L: 160 (0.22%)
+  hdl_cholesterol_mmol_L_log: 6383 (8.77%)
+  ldl_cholesterol_mmol_L: 260 (0.36%)
+  apolipoprotein_a_g_L_log: 6799 (9.34%)
+  apolipoprotein_b_g_L: 514 (0.71%)
+饮食变量缺失总数: 0
+协变量缺失总数: 0
+
+[6] 分析计划
+脂质指标数量: 6
+预计总模型数量: 24
+Bootstrap重复: 0

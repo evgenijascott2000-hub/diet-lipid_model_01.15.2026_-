@@ -1,0 +1,103 @@
+lipid_variable,lipid_label,diet_variable,coef,alpha,n_samples,diet_display
+triglycerides_mmol_L_log,log(Triglycerides),diet_cooked_vegetable_intake_daily,-0.002997558,0.0007161002664982446,72666,Cooked Vegetable Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_salad_raw_vegetable_intake_daily,-0.005595477,0.0007161002664982446,72666,Salad Raw Vegetable Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_fresh_fruit_intake_daily,-0.0071336874,0.0007161002664982446,72666,Fresh Fruit Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_dried_fruit_intake_daily,-0.0,0.0007161002664982446,72666,Dried Fruit Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_oily_fish_intake_daily,0.016729375,0.0007161002664982446,72666,Oily Fish Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_non_oily_fish_intake_daily,0.007201136,0.0007161002664982446,72666,Non Oily Fish Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_processed_meat_intake_daily,-0.007596069,0.0007161002664982446,72666,Processed Meat Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_poultry_intake_daily,0.0065653236,0.0007161002664982446,72666,Poultry Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_beef_intake_daily,0.007422442,0.0007161002664982446,72666,Beef Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_lamb_mutton_intake_daily,0.0048625167,0.0007161002664982446,72666,Lamb Mutton Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_pork_intake_daily,0.002281814,0.0007161002664982446,72666,Pork Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_cheese_intake_daily,-0.0002211463,0.0007161002664982446,72666,Cheese Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_bread_intake_daily,0.0030409868,0.0007161002664982446,72666,Bread Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_cereal_intake_daily,0.0013341052,0.0007161002664982446,72666,Cereal Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_tea_intake_daily,-0.0015751034,0.0007161002664982446,72666,Tea Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_coffee_intake_daily,0.0019600291,0.0007161002664982446,72666,Coffee Intake
+triglycerides_mmol_L_log,log(Triglycerides),diet_water_intake_daily,-0.007178703,0.0007161002664982446,72666,Water Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_cooked_vegetable_intake_daily,-0.014428592,0.0006413858131417013,72651,Cooked Vegetable Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_salad_raw_vegetable_intake_daily,-0.0020220773,0.0006413858131417013,72651,Salad Raw Vegetable Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_fresh_fruit_intake_daily,-0.022946728,0.0006413858131417013,72651,Fresh Fruit Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_dried_fruit_intake_daily,-0.0010671174,0.0006413858131417013,72651,Dried Fruit Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_oily_fish_intake_daily,0.005914514,0.0006413858131417013,72651,Oily Fish Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_non_oily_fish_intake_daily,0.012445131,0.0006413858131417013,72651,Non Oily Fish Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_processed_meat_intake_daily,-0.014749671,0.0006413858131417013,72651,Processed Meat Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_poultry_intake_daily,0.0029424643,0.0006413858131417013,72651,Poultry Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_beef_intake_daily,-0.0016129727,0.0006413858131417013,72651,Beef Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_lamb_mutton_intake_daily,0.0032730894,0.0006413858131417013,72651,Lamb Mutton Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_pork_intake_daily,-0.01403639,0.0006413858131417013,72651,Pork Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_cheese_intake_daily,-0.009367532,0.0006413858131417013,72651,Cheese Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_bread_intake_daily,0.011440572,0.0006413858131417013,72651,Bread Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_cereal_intake_daily,-0.012603189,0.0006413858131417013,72651,Cereal Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_tea_intake_daily,-0.00826898,0.0006413858131417013,72651,Tea Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_coffee_intake_daily,0.055289958,0.0006413858131417013,72651,Coffee Intake
+total_cholesterol_mmol_L,Total cholesterol,diet_water_intake_daily,-0.018409245,0.0006413858131417013,72651,Water Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_cooked_vegetable_intake_daily,0.0,0.000309879417112791,66428,Cooked Vegetable Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_salad_raw_vegetable_intake_daily,0.0031527209,0.000309879417112791,66428,Salad Raw Vegetable Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_fresh_fruit_intake_daily,-0.005379194,0.000309879417112791,66428,Fresh Fruit Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_dried_fruit_intake_daily,-0.00020261478,0.000309879417112791,66428,Dried Fruit Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_oily_fish_intake_daily,-0.004487068,0.000309879417112791,66428,Oily Fish Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_non_oily_fish_intake_daily,-0.0003097344,0.000309879417112791,66428,Non Oily Fish Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_processed_meat_intake_daily,-0.001534064,0.000309879417112791,66428,Processed Meat Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_poultry_intake_daily,-0.0017438019,0.000309879417112791,66428,Poultry Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_beef_intake_daily,-0.0023216824,0.000309879417112791,66428,Beef Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_lamb_mutton_intake_daily,-0.0,0.000309879417112791,66428,Lamb Mutton Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_pork_intake_daily,-0.0026931441,0.000309879417112791,66428,Pork Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_cheese_intake_daily,-0.0042051715,0.000309879417112791,66428,Cheese Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_bread_intake_daily,4.7021073e-05,0.000309879417112791,66428,Bread Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_cereal_intake_daily,-0.0036786648,0.000309879417112791,66428,Cereal Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_tea_intake_daily,-0.0,0.000309879417112791,66428,Tea Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_coffee_intake_daily,0.0065774755,0.000309879417112791,66428,Coffee Intake
+hdl_cholesterol_mmol_L_log,log(HDL cholesterol),diet_water_intake_daily,0.004620218,0.000309879417112791,66428,Water Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_cooked_vegetable_intake_daily,-0.012241396,0.001172889016164721,72551,Cooked Vegetable Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_salad_raw_vegetable_intake_daily,-0.0048960657,0.001172889016164721,72551,Salad Raw Vegetable Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_fresh_fruit_intake_daily,-0.009580712,0.001172889016164721,72551,Fresh Fruit Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_dried_fruit_intake_daily,0.0,0.001172889016164721,72551,Dried Fruit Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_oily_fish_intake_daily,0.0074662957,0.001172889016164721,72551,Oily Fish Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_non_oily_fish_intake_daily,0.008624618,0.001172889016164721,72551,Non Oily Fish Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_processed_meat_intake_daily,-0.0064649023,0.001172889016164721,72551,Processed Meat Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_poultry_intake_daily,0.0018033648,0.001172889016164721,72551,Poultry Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_beef_intake_daily,-0.0,0.001172889016164721,72551,Beef Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_lamb_mutton_intake_daily,0.0008760712,0.001172889016164721,72551,Lamb Mutton Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_pork_intake_daily,-0.009085555,0.001172889016164721,72551,Pork Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_cheese_intake_daily,-0.0025687448,0.001172889016164721,72551,Cheese Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_bread_intake_daily,0.0075913533,0.001172889016164721,72551,Bread Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_cereal_intake_daily,-0.0045442763,0.001172889016164721,72551,Cereal Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_tea_intake_daily,-0.005550238,0.001172889016164721,72551,Tea Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_coffee_intake_daily,0.03804995,0.001172889016164721,72551,Coffee Intake
+ldl_cholesterol_mmol_L,LDL cholesterol,diet_water_intake_daily,-0.0209795,0.001172889016164721,72551,Water Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_cooked_vegetable_intake_daily,-0.0,0.0003371325389175266,66012,Cooked Vegetable Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_salad_raw_vegetable_intake_daily,0.0019819625,0.0003371325389175266,66012,Salad Raw Vegetable Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_fresh_fruit_intake_daily,-0.0061127767,0.0003371325389175266,66012,Fresh Fruit Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_dried_fruit_intake_daily,-0.00017851431,0.0003371325389175266,66012,Dried Fruit Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_oily_fish_intake_daily,-0.0006975344,0.0003371325389175266,66012,Oily Fish Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_non_oily_fish_intake_daily,0.0001592076,0.0003371325389175266,66012,Non Oily Fish Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_processed_meat_intake_daily,-0.00229825,0.0003371325389175266,66012,Processed Meat Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_poultry_intake_daily,-0.0008919791,0.0003371325389175266,66012,Poultry Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_beef_intake_daily,-0.0008996968,0.0003371325389175266,66012,Beef Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_lamb_mutton_intake_daily,0.0,0.0003371325389175266,66012,Lamb Mutton Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_pork_intake_daily,-0.0014616302,0.0003371325389175266,66012,Pork Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_cheese_intake_daily,-0.003640811,0.0003371325389175266,66012,Cheese Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_bread_intake_daily,0.000237381,0.0003371325389175266,66012,Bread Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_cereal_intake_daily,-0.0024533696,0.0003371325389175266,66012,Cereal Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_tea_intake_daily,-0.00068453414,0.0003371325389175266,66012,Tea Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_coffee_intake_daily,0.0041778293,0.0003371325389175266,66012,Coffee Intake
+apolipoprotein_a_g_L_log,log(Apolipoprotein A),diet_water_intake_daily,0.003543651,0.0003371325389175266,66012,Water Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_cooked_vegetable_intake_daily,-0.0033014845,0.00011466538930863673,72297,Cooked Vegetable Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_salad_raw_vegetable_intake_daily,-0.00063270953,0.00011466538930863673,72297,Salad Raw Vegetable Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_fresh_fruit_intake_daily,-0.0024817153,0.00011466538930863673,72297,Fresh Fruit Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_dried_fruit_intake_daily,-6.94419e-05,0.00011466538930863673,72297,Dried Fruit Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_oily_fish_intake_daily,0.00045773858,0.00011466538930863673,72297,Oily Fish Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_non_oily_fish_intake_daily,0.0023006836,0.00011466538930863673,72297,Non Oily Fish Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_processed_meat_intake_daily,-0.0014158724,0.00011466538930863673,72297,Processed Meat Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_poultry_intake_daily,0.00016216985,0.00011466538930863673,72297,Poultry Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_beef_intake_daily,0.0,0.00011466538930863673,72297,Beef Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_lamb_mutton_intake_daily,0.00046701377,0.00011466538930863673,72297,Lamb Mutton Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_pork_intake_daily,-0.0016946686,0.00011466538930863673,72297,Pork Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_cheese_intake_daily,0.00075512263,0.00011466538930863673,72297,Cheese Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_bread_intake_daily,0.0015468027,0.00011466538930863673,72297,Bread Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_cereal_intake_daily,-0.0019477089,0.00011466538930863673,72297,Cereal Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_tea_intake_daily,-0.0035366602,0.00011466538930863673,72297,Tea Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_coffee_intake_daily,0.0073895394,0.00011466538930863673,72297,Coffee Intake
+apolipoprotein_b_g_L,Apolipoprotein B,diet_water_intake_daily,-0.003907082,0.00011466538930863673,72297,Water Intake

@@ -1,0 +1,41 @@
+PCA Component Analysis Report
+==================================================
+Total components extracted: 8
+Total features (diet variables): 17
+Sample size: 72811
+
+Component Selection Criteria:
+  95% variance threshold: 16 components
+  80% variance threshold: 13 components
+  Kaiser criterion (eigenvalue > 1): 6 components
+  Elbow method suggestion: 3 components
+
+Individual Component Variance:
+PC1: 9.31%
+PC2: 9.02%
+PC3: 6.95%
+PC4: 6.66%
+PC5: 6.18%
+PC6: 6.16%
+PC7: 5.83%
+PC8: 5.70%
+
+Cumulative Variance Explained:
+  PC1-1: 9.31%
+  PC1-2: 18.33%
+  PC1-3: 25.28%
+  PC1-4: 31.94%
+  PC1-5: 38.12%
+  PC1-6: 44.28%
+  PC1-7: 50.11%
+  PC1-8: 55.81%
+
+Eigenvalues (for Kaiser criterion):
+  PC1: 1.5836
+  PC2: 1.5332
+  PC3: 1.1807
+  PC4: 1.1329
+  PC5: 1.0505
+  PC6: 1.0467
+  PC7: 0.9915
+  PC8: 0.9689

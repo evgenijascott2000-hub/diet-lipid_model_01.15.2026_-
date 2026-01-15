@@ -1,0 +1,42 @@
+================================================================================
+24h饮食变量分类分析报告
+================================================================================
+
+1. 分析概述
+----------------------------------------
+本分析将93个24h饮食变量按照以下两个维度进行分类:
+  - 食物来源: Animal Source vs Plant Source
+  - 加工程度: Extra Processed vs Processed
+
+2. 聚类结果
+----------------------------------------
+最优聚类数: 3
+
+聚类特征:
+
+  Cluster 0: Plant-based, Minimally-processed
+    样本数: 23135
+    Animal Source: 17.5%
+    Plant Source: 82.5%
+    Extra Processed: 20.5%
+    Processed: 79.5%
+
+  Cluster 1: Plant-based, Ultra-processed
+    样本数: 15654
+    Animal Source: 15.5%
+    Plant Source: 84.5%
+    Extra Processed: 51.0%
+    Processed: 49.0%
+
+  Cluster 2: Plant-based, Minimally-processed
+    样本数: 11882
+    Animal Source: 32.4%
+    Plant Source: 67.6%
+    Extra Processed: 28.3%
+    Processed: 71.7%
+
+3. 脂质关联分析
+----------------------------------------
+
+================================================================================
+分析完成

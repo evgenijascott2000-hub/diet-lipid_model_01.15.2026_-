@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sankey Diagram - Print to PDF</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        @media print {
+            body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .no-print { display: none; }
+        }
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        #chart { width: 100%; height: 800px; }
+        .instructions { 
+            background: #f0f0f0; 
+            padding: 15px; 
+            border-radius: 8px; 
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="instructions no-print">
+        <h3>📄 导出为PDF说明:</h3>
+        <ol>
+            <li>按 <strong>Ctrl+P</strong> (Windows) 或 <strong>Cmd+P</strong> (Mac) 打开打印对话框</li>
+            <li>选择 <strong>"另存为PDF"</strong> 或 <strong>"Save as PDF"</strong></li>
+            <li>设置纸张为 <strong>横向 (Landscape)</strong></li>
+            <li>取消选中 "页眉和页脚"</li>
+            <li>点击保存</li>
+        </ol>
+    </div>
+    <div id="chart"></div>
+    <script>
+        var data = [{
+            type: 'sankey',
+            arrangement: 'snap',
+            node: {
+                pad: 20,
+                thickness: 30,
+                line: { color: 'white', width: 2 },
+                label: [
+                    'Total Samples<br>(N=50,671)',
+                    'Cluster 0<br>n=23,135 (45.7%)<br>Plant-based, Minimal',
+                    'Cluster 1<br>n=15,654 (30.9%)<br>Plant-based, Ultra',
+                    'Cluster 2<br>n=11,882 (23.5%)<br>Mixed, Moderate',
+                    'Animal Source',
+                    'Plant Source',
+                    'Extra Processed',
+                    'Minimally Processed'
+                ],
+                color: ['#34495E', '#2E86AB', '#E94F37', '#44AF69', '#E74C3C', '#27AE60', '#9B59B6', '#3498DB']
+            },
+            link: {
+                source: [0,0,0, 1,1,1,1, 2,2,2,2, 3,3,3,3],
+                target: [1,2,3, 4,5,6,7, 4,5,6,7, 4,5,6,7],
+                value: [23135,15654,11882, 4048,19087,4743,18392, 2426,13228,7984,7670, 3850,8032,3363,8519],
+                color: [
+                    'rgba(46,134,171,0.4)', 'rgba(233,79,55,0.4)', 'rgba(68,175,105,0.4)',
+                    'rgba(46,134,171,0.5)', 'rgba(46,134,171,0.25)', 'rgba(46,134,171,0.5)', 'rgba(46,134,171,0.25)',
+                    'rgba(233,79,55,0.5)', 'rgba(233,79,55,0.25)', 'rgba(233,79,55,0.5)', 'rgba(233,79,55,0.25)',
+                    'rgba(68,175,105,0.5)', 'rgba(68,175,105,0.25)', 'rgba(68,175,105,0.5)', 'rgba(68,175,105,0.25)'
+                ],
+                customdata: [
+                    '23,135 (45.7%)', '15,654 (30.9%)', '11,882 (23.5%)',
+                    '17.5%', '82.5%', '20.5%', '79.5%',
+                    '15.5%', '84.5%', '51.0%', '49.0%',
+                    '32.4%', '67.6%', '28.3%', '71.7%'
+                ],
+                hovertemplate: '%{customdata}<extra></extra>'
+            }
+        }];
+        
+        var layout = {
+            title: {
+                text: '<b>Sankey Flow Diagram: Dietary Pattern Analysis</b><br><sup>24-Hour Dietary Recall | UK Biobank | 93 Food Subcategories | N=50,671</sup>',
+                font: { size: 22, color: '#2C3E50' },
+                x: 0.5
+            },
+            font: { size: 14, family: 'Arial' },
+            paper_bgcolor: 'white',
+            margin: { l: 50, r: 50, t: 100, b: 50 }
+        };
+        
+        Plotly.newPlot('chart', data, layout, {responsive: true});
+    </script>
+</body>
+</html>

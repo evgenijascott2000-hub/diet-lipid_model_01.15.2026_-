@@ -1,0 +1,177 @@
+category_type,category,variable
+food_source,animal,Animal fat spread lower fat
+food_source,animal,Animal fat spread normal
+food_source,animal,Beef
+food_source,animal,Breaded/battered chicken
+food_source,animal,Breaded/battered fish
+food_source,animal,Cream
+food_source,animal,Egg and egg dishes
+food_source,animal,Full fat yogurt
+food_source,animal,High fat cheese
+food_source,animal,Lamb
+food_source,animal,Low fat yogurt
+food_source,animal,Medium and low fat cheese
+food_source,animal,Milk-based and powdered drinks
+food_source,animal,Milk-dairy desserts
+food_source,animal,Muesli
+food_source,animal,Oily fish
+food_source,animal,Other desserts and cakes and pastries
+food_source,animal,"Other meat, offal"
+food_source,animal,Pork
+food_source,animal,Poultry
+food_source,animal,Processed meat
+food_source,animal,Rice/oat milk
+food_source,animal,"Samosa, pakora"
+food_source,animal,Semi skimmed milk
+food_source,animal,Shellfish
+food_source,animal,Skimmed milk and cholesterol-lowering milk
+food_source,animal,Sushi
+food_source,animal,White fish and tinned tuna
+food_source,animal,Whole milk
+food_source,plant,Allium vegetables
+food_source,plant,Apples and pears
+food_source,plant,Beer and cider
+food_source,plant,Berries
+food_source,plant,Biscuit cereal
+food_source,plant,Biscuits
+food_source,plant,Bran cereal
+food_source,plant,Chocolate confectionery
+food_source,plant,Citrus
+food_source,plant,"Coffee, caffeinated"
+food_source,plant,"Coffee, decaffeinated"
+food_source,plant,Dried fruit
+food_source,plant,Fortified wine
+food_source,plant,Fried/roast potatoes
+food_source,plant,Fruit juice
+food_source,plant,Grain dishes - added fat
+food_source,plant,Green leafy/cabbages
+food_source,plant,Legumes and pulses
+food_source,plant,Mashed potatoes
+food_source,plant,Meat substitutes - soy
+food_source,plant,Meat substitutes - vegetarian
+food_source,plant,"Mixed bread (50/50), brown and seeded"
+food_source,plant,Muesli
+food_source,plant,Nut-based spreads
+food_source,plant,Oat cereal (non sugar)
+food_source,plant,Oat cereal (sugar)
+food_source,plant,Olive oil (drizzling/dunking)
+food_source,plant,Other bread
+food_source,plant,Other cereal (sugar)
+food_source,plant,Other fruit
+food_source,plant,Other sweets
+food_source,plant,"Other vegetables, including mushrooms, fruiting and mixed vegetables"
+food_source,plant,Peas and sweetcorn
+food_source,plant,Pizza
+food_source,plant,Plant-based spread lower fat
+food_source,plant,Plant-based spread normal
+food_source,plant,Potatoes and sweet potatoes (baked/boiled)
+food_source,plant,Red wine
+food_source,plant,Raw salad
+food_source,plant,Root vegetables
+food_source,plant,Salted nuts and seeds
+food_source,plant,Sauces and condiments (high fat)
+food_source,plant,Sauces and condiments (low fat)
+food_source,plant,Savoury crackers
+food_source,plant,Savoury snacks
+food_source,plant,Soy milk
+food_source,plant,Soy desserts and yogurt
+food_source,plant,Spirits
+food_source,plant,Stewed fruit
+food_source,plant,Sugar-sweetened beverages and other sugary drinks
+food_source,plant,Tea
+food_source,plant,"Tea, decaffeinated"
+food_source,plant,Tomatoes
+food_source,plant,Unsalted nuts and seeds
+food_source,plant,Vegetable dips
+food_source,plant,Vegetable side dishes
+food_source,plant,White bread
+food_source,plant,White pasta and rice
+food_source,plant,White wine
+processing,extra_processed,Beer and cider
+processing,extra_processed,Biscuit cereal
+processing,extra_processed,Biscuits
+processing,extra_processed,Breaded/battered chicken
+processing,extra_processed,Breaded/battered fish
+processing,extra_processed,Chocolate confectionery
+processing,extra_processed,"Coffee, caffeinated"
+processing,extra_processed,"Coffee, decaffeinated"
+processing,extra_processed,Cream
+processing,extra_processed,Fortified wine
+processing,extra_processed,Fruit juice
+processing,extra_processed,Low/non sugar sugar-sweetened beverages
+processing,extra_processed,Milk-based and powdered drinks
+processing,extra_processed,Milk-dairy desserts
+processing,extra_processed,Nut-based spreads
+processing,extra_processed,Other desserts and cakes and pastries
+processing,extra_processed,Other cereal (sugar)
+processing,extra_processed,Other sweets
+processing,extra_processed,Pizza
+processing,extra_processed,Red wine
+processing,extra_processed,Salted nuts and seeds
+processing,extra_processed,Processed meat
+processing,extra_processed,Sauces and condiments (high fat)
+processing,extra_processed,Sauces and condiments (low fat)
+processing,extra_processed,Savoury crackers
+processing,extra_processed,Savoury snacks
+processing,extra_processed,Soy milk
+processing,extra_processed,Spirits
+processing,extra_processed,Sugar-sweetened beverages and other sugary drinks
+processing,extra_processed,White wine
+processing,processed,Allium vegetables
+processing,processed,Animal fat spread lower fat
+processing,processed,Animal fat spread normal
+processing,processed,Beef
+processing,processed,Berries
+processing,processed,Bran cereal
+processing,processed,Citrus
+processing,processed,Dried fruit
+processing,processed,Egg and egg dishes
+processing,processed,Fried/roast potatoes
+processing,processed,Full fat yogurt
+processing,processed,Grain dishes - added fat
+processing,processed,Green leafy/cabbages
+processing,processed,High fat cheese
+processing,processed,Lamb
+processing,processed,Legumes and pulses
+processing,processed,Low fat yogurt
+processing,processed,Mashed potatoes
+processing,processed,Meat substitutes - soy
+processing,processed,Meat substitutes - vegetarian
+processing,processed,Medium and low fat cheese
+processing,processed,"Mixed bread (50/50), brown and seeded"
+processing,processed,Muesli
+processing,processed,Oat cereal (non sugar)
+processing,processed,Oat cereal (sugar)
+processing,processed,Oily fish
+processing,processed,Olive oil (drizzling/dunking)
+processing,processed,Other bread
+processing,processed,Other fruit
+processing,processed,"Other meat, offal"
+processing,processed,"Other vegetables, including mushrooms, fruiting and mixed vegetables"
+processing,processed,Peas and sweetcorn
+processing,processed,Plant-based spread lower fat
+processing,processed,Plant-based spread normal
+processing,processed,Pork
+processing,processed,Potatoes and sweet potatoes (baked/boiled)
+processing,processed,Poultry
+processing,processed,Raw salad
+processing,processed,Rice/oat milk
+processing,processed,Root vegetables
+processing,processed,"Samosa, pakora"
+processing,processed,Semi skimmed milk
+processing,processed,Shellfish
+processing,processed,Skimmed milk and cholesterol-lowering milk
+processing,processed,Soups
+processing,processed,Stewed fruit
+processing,processed,Sushi
+processing,processed,Tea
+processing,processed,"Tea, decaffeinated"
+processing,processed,Tomatoes
+processing,processed,Unsalted nuts and seeds
+processing,processed,Vegetable dips
+processing,processed,Vegetable side dishes
+processing,processed,White bread
+processing,processed,White fish and tinned tuna
+processing,processed,White pasta and rice
+processing,processed,Whole milk
+processing,processed,Water (still and sparkling)
