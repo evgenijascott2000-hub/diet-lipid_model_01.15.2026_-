@@ -1,0 +1,7 @@
+output_column,title,type
+prs_apolipoprotein_a1,PRS for Apolipoprotein A1,numeric
+prs_apolipoprotein_b,PRS for Apolipoprotein B,numeric
+prs_hdl_cholesterol,PRS for HDL Cholesterol,numeric
+prs_ldl_cholesterol,PRS for LDL Cholesterol,numeric
+prs_total_cholesterol,PRS for Total Cholesterol,numeric
+prs_triglycerides,PRS for Triglycerides,numeric

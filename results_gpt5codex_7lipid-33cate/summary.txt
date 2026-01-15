@@ -1,0 +1,10 @@
+Participants used: 348392
+Lipid columns: 7
+Diet columns: 33
+Correlation pairs computed: 203
+Pairs with < 100 samples: 0
+Covariates adjusted: Age when attended assessment centre | Instance 0, Body mass index (BMI) | Instance 0, Fasting time | Instance 0, Sex, Alcohol drinker status | Instance 0, Current tobacco smoking | Instance 0
+Minimum sample size threshold: 3
+Log-transformed lipids: apolipoprotein_a_g_L_log, hdl_cholesterol_mmol_L_log, lipoprotein_a_nmol_L_log, triglycerides_mmol_L_log
+Scatter plots generated for top 10 pairs ranked by -log10(p).
+Pairs skipped due to insufficient data (n < 3): Triglycerides (log) vs Never eat eggs, dairy, wheat, sugar (pilot) (n=0), Triglycerides (log) vs Spread type (pilot) (n=0), Triglycerides (log) vs Bread type/intake (pilot) (n=0), Triglycerides (log) vs Variation in diet (pilot) (n=0), Total cholesterol vs Never eat eggs, dairy, wheat, sugar (pilot) (n=0), Total cholesterol vs Spread type (pilot) (n=0), Total cholesterol vs Bread type/intake (pilot) (n=0), Total cholesterol vs Variation in diet (pilot) (n=0), HDL cholesterol (log) vs Never eat eggs, dairy, wheat, sugar (pilot) (n=0), HDL cholesterol (log) vs Spread type (pilot) (n=0), ...
